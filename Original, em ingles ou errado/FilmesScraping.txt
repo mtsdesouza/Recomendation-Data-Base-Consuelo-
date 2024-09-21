@@ -1,0 +1,532 @@
+﻿Título (Ano),Classificação,Direção,Gênero
+Os Bons Companheiros (1990),4.8, Martin Scorsese, Crime
+Misery - Louca Obsessão (1990),4.7, Rob Reiner, Suspense
+A Família Addams (1990),4.6, Barry Sonnenfeld, Comédia
+Dança com Lobos (1990),4.6, Kevin Costner, Drama
+A Caça ao Outubro Vermelho (1990),4.5, John McTiernan, Ação
+Edward Mãos de Tesoura (1990),4.5, Tim Burton, Fantasia
+Pretty Woman (1990),4.4, Garry Marshall, Romance
+O Silêncio dos Inocentes (1990),4.4, Jonathan Demme, Thriller
+Despedida em Las Vegas (1990),4.3, Mike Figgis, Drama
+O Exterminador do Futuro 2: O Julgamento Final (1990),4.3, James Cameron, Ação
+Encontros e Desencontros (1990),4.2, David Mamet, Comédia
+Gremlins 2: A Nova Geração (1990),4.2, Joe Dante, Fantasia
+Coração Selvagem (1990),4.1, David Lynch, Drama
+A Lenda do Tesouro Perdido (1990),4.1, Peter MacDonald, Aventura
+O Guarda-Costas (1990),4.0, Mick Jackson, Romance
+O Silêncio dos Inocentes (1991),4.8, Jonathan Demme, Thriller
+A Lista de Schindler (1991),4.8, Steven Spielberg, Drama
+Os Intocáveis (1991),4.6, Brian De Palma, Crime
+Jogo de Poder (1991),4.5, Richard Attenborough, Drama
+O Exterminador do Futuro 2: O Julgamento Final (1991),4.5, James Cameron, Ação
+O Pequeno Stuart Little (1991),4.4, Rob Minkoff, Comédia
+A Princesa Prometida (1991),4.4, Rob Reiner, Aventura
+O Cabeça de Vento (1991),4.3, Ron Underwood, Comédia
+A Lenda do Tesouro Perdido (1991),4.3, Peter MacDonald, Aventura
+A Família Addams (1991),4.2, Barry Sonnenfeld, Comédia
+O Guarda-Costas (1991),4.2, Mick Jackson, Romance
+A Viagem de Chihiro (1991),4.1, Hayao Miyazaki, Animação
+A Caça ao Outubro Vermelho (1991),4.1, John McTiernan, Suspense
+Gênio Indomável (1991),4.0, Gus Van Sant, Drama
+Dança com Lobos (1991),4.0, Kevin Costner, Drama
+Os Bons Companheiros (1992),4.8, Martin Scorsese, Crime
+O Silêncio dos Inocentes (1992),4.7, Jonathan Demme, Thriller
+Uma Linda Mulher (1992),4.6, Garry Marshall, Romance
+A Fuga das Galinhas (1992),4.5, Peter Lord, Animação
+O Guarda-Costas (1992),4.5, Mick Jackson, Drama
+As Panteras (1992),4.4, McG, Ação
+O Exterminador do Futuro 2: O Julgamento Final (1992),4.4, James Cameron, Ação
+Atração Fatal (1992),4.3, Adrian Lyne, Suspense
+A Cor Púrpura (1992),4.3, Steven Spielberg, Drama
+A Última Ceia (1992),4.2, Spike Lee, Drama
+Coração Valente (1992),4.2, Mel Gibson, Ação
+Caminhos Perigosos (1992),4.1, David Mamet, Ação
+Beleza Americana (1992),4.1, Sam Mendes, Drama
+A Morte e a Donzela (1992),4.0, Roman Polanski, Drama
+Os Vingadores (1992),4.0, Jeremiah S. Chechik, Aventura
+A Lista de Schindler (1993),4.8, Steven Spielberg, Drama
+Jurassic Park (1993),4.7, Steven Spielberg, Aventura
+O Piano (1993),4.6, Jane Campion, Drama
+A Última Ceia (1993),4.5, Spike Lee, Drama
+O Silêncio dos Inocentes (1993),4.5, Jonathan Demme, Thriller
+Nascido Para Matar (1993),4.4, Stanley Kubrick, Guerra
+A Cor Púrpura (1993),4.4, Steven Spielberg, Drama
+O Último dos Moicanos (1993),4.3, Michael Mann, Ação
+Uma Linda Mulher (1993),4.2, Garry Marshall, Romance
+A Vida é Bela (1993),4.2, Roberto Benigni, Comédia
+Os Três Mosqueteiros (1993),4.1, Stephen Herek, Aventura
+A Morte e a Donzela (1993),4.1, Roman Polanski, Drama
+Apenas um Show (1993),4.0, Michel Gondry, Comédia
+Demolição (1993),4.0, Walter Hill, Ação
+Risco Total (1993),4.0, John Badham, Ação
+Título (Ano),Classificação,Direção,Gênero
+Pulp Fiction (1994),4.8, Quentin Tarantino, Crime
+O Rei Leão (1994),4.7, Roger Allers, Animação
+Forrest Gump - O Contador de Histórias (1994),4.7, Robert Zemeckis, Drama
+O Máskara (1994),4.5, Chuck Russell, Comédia
+A Lista de Schindler (1994),4.5, Steven Spielberg, Drama
+As Aventuras de Pi (1994),4.4, Ang Lee, Aventura
+Um Lugar Chamado Notting Hill (1994),4.4, Roger Michell, Romance
+Apenas um Show (1994),4.3, Michel Gondry, Comédia
+A Espera de um Milagre (1994),4.3, Frank Darabont, Drama
+Coração Valente (1994),4.3, Mel Gibson, Ação
+A Morte e a Donzela (1994),4.2, Roman Polanski, Drama
+O Exterminador do Futuro 2: O Julgamento Final (1994),4.2, James Cameron, Ação
+Laranja Mecânica (1994),4.1, Stanley Kubrick, Ficção Científica
+Gremlins 2: A Nova Geração (1994),4.1, Joe Dante, Fantasia
+Os Vingadores (1994),4.0, Jeremiah S. Chechik, Aventura
+Os Suspeitos (1995),4.8, Bryan Singer, Suspense
+Seven: Os Sete Crimes Capitais (1995),4.8, David Fincher, Suspense
+Jumanji (1995),4.7, Joe Johnston, Aventura
+Apollo 13 (1995),4.7, Ron Howard, Drama
+Toy Story (1995),4.6, John Lasseter, Animação
+O Profissional (1995),4.6, Luc Besson, Ação
+Casper (1995),4.6, Brad Silberling, Fantasia
+O Jogador (1995),4.5, Robert Altman, Drama
+Heat (1995),4.5, Michael Mann, Crime
+A Cidade das Sombras (1995),4.4, Gary Fleder, Ação
+Dezembro (1995),4.4, James Foley, Drama
+Mortal Kombat (1995),4.4, Paul W.S. Anderson, Ação
+O Pacto dos Lobos (1995),4.3, Christophe Gans, Aventura
+A Era do Gelo (1995),4.3, Chris Wedge, Animação
+O Último dos Moicanos (1995),4.3, Michael Mann, Aventura
+O Paciente Inglês (1996),4.5, Anthony Minghella, Drama
+Jerry Maguire (1996),4.4, Cameron Crowe, Comédia Romântica
+O Substituto (1996),4.4, James Foley, Drama
+O Hóspede (1996),4.3, Stephen Hopkins, Terror
+A Rocha (1996),4.3, Michael Bay, Ação
+O Espelho Tem Duas Faces (1996),4.3, Barbra Streisand, Comédia Romântica
+Beleza Americana (1996),4.6, Sam Mendes, Drama
+O Fantasma da Ópera (1996),4.2, Dario Argento, Musical
+Prêt-à-Porter (1996),4.2, Robert Altman, Comédia
+A Paixão de Cristo (1996),4.1, Mel Gibson, Drama
+Star Trek: First Contact (1996),4.3, Jonathan Frakes, Ficção Científica
+Independence Day (1996),4.4, Roland Emmerich, Ação
+Scream (1996),4.4, Wes Craven, Terror
+Morte Súbita (1996),4.2, Peter Hyams, Ação
+O Nome da Rosa (1996),4.1, Jean-Jacques Annaud, Mistério
+A Vida é Bela (1997),4.7,Roberto Benigni,Comédia Dramática
+O Mundo Perdido: Jurassic Park (1997),4.4,Steven Spielberg,Ação
+Titanic (1997),4.6,James Cameron,Drama/Romance
+A Lista de Schindler (1997),4.8,Steven Spielberg,Drama
+O Quinto Elemento (1997),4.3,Luc Besson,Ficção Científica
+Boogie Nights (1997),4.4,Paul Thomas Anderson,Drama
+O Show de Truman (1997),4.5,Peter Weir,Comédia Dramática
+L.A. Confidential (1997),4.4,Curtis Hanson,Mistério
+Gattaca (1997),4.2,Andrew Niccol,Ficção Científica
+A Chegada (1997),4.3,Mike Nichols,Drama
+O Casamento de Rachel (1997),4.1,Jonathan Demme,Comédia
+Chasing Amy (1997),4.2,Kevin Smith,Comédia Romântica
+Men in Black (1997),4.3,Barry Sonnenfeld,Ação/Comédia
+O Clube da Luta (1997),4.5,David Fincher,Drama
+O Corvo (1997),4.2,Alex Proyas,Ação/Fantasia
+O Show de Truman (1998),4.5,Peter Weir,Comédia Dramática
+A Vida é Bela (1998),4.7,Roberto Benigni,Comédia Dramática
+O Resgate do Soldado Ryan (1998),4.7,Steven Spielberg,Drama
+O Clube da Luta (1998),4.5,David Fincher,Drama
+O Grande Lebowski (1998),4.4,Joel Coen,Comédia
+A Máscara (1998),4.3,Chuck Russell,Comédia
+A Morte de um Ciclista (1998),4.2,Antonio Hernández,Drama
+Lola Rennt (1998),4.4,Tom Tykwer,Thriller
+O Príncipe do Egito (1998),4.3,Brenda Chapman,Comédia Musical
+O Resgate (1998),4.2,David M. Evans,Aventura
+Mulan (1998),4.4,Tony Bancroft,Animação
+O Homem Bicentenário (1998),4.2,Chris Columbus,Drama
+O Livro de Jeremias (1998),4.3,Joel Schumacher,Drama
+O Projeto Mindhunter (1998),4.1,David Fincher,Thriller
+Coração Valente (1998),4.4,Mel Gibson,Drama
+Matrix (1999),4.6,The Wachowskis,Ficção Científica
+Clube da Luta (1999),4.5,David Fincher,Drama
+O Sexto Sentido (1999),4.4,M. Night Shyamalan,Thriller
+Beleza Americana (1999),4.6,Sam Mendes,Drama
+Os Outros (1999),4.4,Alejandro Amenábar,Terror
+O Resgate do Soldado Ryan (1999),4.7,Steven Spielberg,Drama
+A Vida é Bela (1999),4.7,Roberto Benigni,Comédia Dramática
+O Fabuloso Destino de Amélie Poulain (1999),4.5,Jean-Pierre Jeunet,Romance
+O Príncipe do Egito (1999),4.3,Brenda Chapman,Animação
+O Coração do Anjo (1999),4.2,Alan Parker,Drama
+Lola Rennt (1999),4.4,Tom Tykwer,Thriller
+O Pacto dos Lobos (1999),4.3,Christophe Gans,Ação
+O Homem Bicentenário (1999),4.2,Chris Columbus,Drama
+Magnólia (1999),4.4,Paul Thomas Anderson,Drama
+A Vida em Preto e Branco (1999),4.1,David Anspaugh,Drama
+Gladiador (2000),4.6,Ridley Scott,Ação
+Memento (2000),4.5,Christopher Nolan,Thriller
+O Senhor dos Anéis: A Sociedade do Anel (2000),4.7,Peter Jackson,Ficção Científica
+Crouching Tiger, Hidden Dragon (2000),4.5,Ang Lee,Ação
+O Grinch (2000),4.3,Ron Howard,Comédia
+O Patriota (2000),4.3,Roland Emmerich,Drama
+American Psycho (2000),4.4,Mary Harron,Thriller
+Cast Away (2000),4.4,Robert Zemeckis,Drama
+O Jogo da Imitação (2000),4.2,Frank Darabont,Drama
+Requiem for a Dream (2000),4.6,Darren Aronofsky,Drama
+O Exorcista: O Início (2000),4.1,Paul Schrader,Terror
+A Nova Cinderela (2000),4.2,Andy Tennant,Romance
+X-Men (2000),4.3,Bryan Singer,Ação
+Billy Elliot (2000),4.5,Stephen Daldry,Drama
+Os Reis da Rua (2000),4.2,David Ayer,Crime
+O Senhor dos Anéis: As Duas Torres (2001),4.8,Peter Jackson,Ficção Científica
+Harry Potter e a Pedra Filosofal (2001),4.5,Chris Columbus,Fantasia
+A Bela e a Fera (2001),4.3,Robert Tieman,Animação
+Donnie Darko (2001),4.4,Richard Kelly,Drama
+Cidade de Deus (2001),4.7,Fernando Meirelles,Crime
+Moulin Rouge (2001),4.4,Baz Luhrmann,Musical
+O Protetor (2001),4.3,Philippe Harel,Drama
+O Vingador (2001),4.2,Chuck Russell,Thriller
+Jurassic Park III (2001),4.1,Joe Johnston,Aventura
+O Escorpião Rei (2001),4.2,Chuck Russell,Ação
+Através da Noite (2001),4.1,David Cronenberg,Terror
+O Homem Que Copiava (2001),4.2,José Eduardo Belmonte,Comédia
+Amor à Flor da Pele (2001),4.5,Wong Kar Wai,Romance
+O Curioso Caso de Benjamin Button (2001),4.3,David Fincher,Drama
+A Múmia 2 (2001),4.1,Stephen Sommers,Ação
+O Senhor dos Anéis: O Retorno do Rei (2002),4.9,Peter Jackson,Ficção Científica
+Chicago (2002),4.6,Rob Marshall,Musical
+Os Incríveis (2002),4.5,Brad Bird,Animação
+O Pianista (2002),4.7,Roman Polanski,Drama
+A Vila (2002),4.2,M. Night Shyamalan,Terror
+Gangs de Nova York (2002),4.4,Martin Scorsese,Drama
+Kill Bill: Volume 1 (2002),4.4,Quentin Tarantino,Ação
+Moulin Rouge (2002),4.4,Baz Luhrmann,Musical
+Hable con Ella (2002),4.5,Pedro Almodóvar,Drama
+A Última Ceia (2002),4.3,Robert Rodriguez,Thriller
+O Despertar (2002),4.1,Bob Balaban,Comédia
+O Coração do Guerreiro (2002),4.2,Domingos de Oliveira,Drama
+Comer, Rezar, Amar (2002),4.2,Ryan Murphy,Drama
+A Máquina do Tempo (2002),4.0,Simon Wells,Fantasia
+Em Busca da Terra do Nunca (2002),4.1,Marc Forster,Drama
+O Senhor dos Anéis: O Retorno do Rei (2003),4.9,Peter Jackson,Ficção Científica
+Matrix Reloaded (2003),4.4,Andy Wachowski, Ação
+Finding Nemo (2003),4.6,Andrew Stanton,Animação
+Piratas do Caribe: A Maldição do Pérola Negra (2003),4.5,Gore Verbinski,Aventura
+Lost in Translation (2003),4.5,Sofia Coppola,Comédia Dramática
+O Último Samurai (2003),4.3,Edward Zwick,Ação
+Master & Commander: O Lado de Fora do Mundo (2003),4.2,Peter Weir,Aventura
+A Caverna (2003),4.0,Sharon Maguire,Terror
+O Jardineiro Fiel (2003),4.4,Fernando Meirelles,Drama
+O Albergue (2003),4.1,Eli Roth,Terror
+O Marido da Minha Melhor Amiga (2003),4.1,John Hamburg,Comédia
+O Amor Não Tira Férias (2003),4.2,Nancy Meyers,Comédia Romântica
+Na Cama com Madonna (2003),4.0,Jean-Baptiste Mondino,Documentário
+O Exótico Hotel Marigold (2003),4.2,John Madden,Comédia Dramática
+A Hora do Pesadelo (2003),4.1,Wes Craven,Terror
+Os Incríveis (2004),4.8,Brad Bird,Animação
+A Paixão de Cristo (2004),4.5,Mel Gibson,Drama
+O Senhor dos Anéis: O Retorno do Rei (2004),4.9,Peter Jackson,Ficção Científica
+Kill Bill: Volume 2 (2004),4.6,Quentin Tarantino,Ação
+Sideways (2004),4.5,Alexander Payne,Comédia
+Efeito Borboleta (2004),4.2,Eric Bress,Thriller
+Desventuras em Série (2004),4.3,Brad Silberling,Fantasias
+A Escorpião Rei (2004),4.1,Chuck Russell,Ação
+O Estranho Mundo de Jack (2004),4.4,Henry Selick,Fantasia
+Cazuza: O Tempo Não Pára (2004),4.4,Daniela Thomas,Drama
+O Aviador (2004),4.3,Martin Scorsese,Biografia
+A Interpretação dos Sonhos (2004),4.2,David Cronenberg,Drama
+Mar Não Está pra Peixe (2004),4.1,Andrew Stanton,Animação
+O Mundo de Beakman (2004),4.0,Roberto M. P. Martins,Documentário
+Trovão Tropical (2004),4.2,Ben Stiller,Comédia
+Batman Begins (2005),4.8,Christopher Nolan,Ação
+O Labirinto do Fauno (2005),4.7,Guillermo del Toro,Fantasia
+Os Infiltrados (2005),4.6,Martin Scorsese,Thriller
+Os Fantasmas de Scrooge (2005),4.4,Robert Zemeckis,Animação
+Capote (2005),4.5,Bennett Miller,Biografia
+A Travessia (2005),4.3,Ang Lee,Aventura
+Madagascar (2005),4.2,Eric Darnell,Animação
+Histórias Cruzadas (2005),4.4,George Clooney,Drama
+O Caçador de Pipas (2005),4.2,Marc Forster,Drama
+O Protetor (2005),4.3,Tony Scott,Ação
+A Dama na Água (2005),4.1,M. Night Shyamalan,Fantasia
+A Caverna (2005),4.0,Ricardo de Montreuil,Terror
+Um Jogo de Mestre (2005),4.2,David Frankel,Comédia
+A Queda! (2005),4.3,Oliver Hirschbiegel,Drama
+Guerra dos Mundos (2005),4.1,Steven Spielberg,Ficção Científica
+O Mínimo para Viver (2005),4.0,Lone Scherfig,Drama
+O Labirinto do Fauno (2006),4.8,Guillermo del Toro,Fantasia
+O Último Rei da Escócia (2006),4.6,Kevin Macdonald,Drama
+Os Infiltrados (2006),4.7,Martin Scorsese,Thriller
+Babel (2006),4.5,Alejandro González Iñárritu,Drama
+A Rainha (2006),4.4,Stephen Frears,Biografia
+Piratas do Caribe: O Baú da Morte (2006),4.5,Gore Verbinski,Aventura
+O Diabo Veste Prada (2006),4.3,David Frankel,Comédia
+A Vida Secreta das Palavras (2006),4.3,Isabel Coixet,Drama
+O Código Da Vinci (2006),4.2,Ron Howard,Thriller
+V de Vingança (2006),4.4,James McTeigue,Ação
+O Pacto (2006),4.1,Géla Babluani,Thriller
+Pequena Miss Sunshine (2006),4.5,Valerie Faris,Comédia
+Os Sem-Floresta (2006),4.2,Tim Johnson,Animação
+A Dama de Ferro (2006),4.3,Phyllida Lloyd,Biografia
+O Fim da Escuridão (2006),4.0,Martin Campbell,Terror
+A Última Ceia (2006),4.1,Roberto Rodrigues,Drama
+Desejo e Reparação (2007),4.7,Joe Wright,Drama
+Onde Os Fracos Não Têm Vez (2007),4.6,Joel e Ethan Coen,Thriller
+O Último Rei da Escócia (2007),4.5,Kevin Macdonald,Drama
+Ratatouille (2007),4.8,Brad Bird,Animação
+A Rede Social (2007),4.6,David Fincher,Biografia
+O Pianista (2007),4.5,Roman Polanski,Drama
+Harry Potter e a Ordem da Fênix (2007),4.4,Davies Yates,Fantasia
+Os Simpsons - O Filme (2007),4.2,David Silverman,Comédia
+Sangue Negro (2007),4.5,Paul Thomas Anderson,Drama
+A Bússola de Ouro (2007),4.3,Chris Weitz,Fantasia
+A Vida é Bela (2007),4.4,Roberto Benigni,Drama
+Transformers (2007),4.3,Michael Bay,Ação
+O Fabuloso Destino de Amélie Poulain (2007),4.2,Jean-Pierre Jeunet,Comédia
+O Orfanato (2007),4.4,J.A. Bayona,Terror
+O Caçador de Pipas (2007),4.2,Marc Forster,Drama
+A Última Ceia (2007),4.1,Roberto Rodrigues,Drama
+O Cavaleiro das Trevas (2008),4.9,Christopher Nolan,Ação
+A Estranha Família de Benjamim Button (2008),4.6,David Fincher,Drama
+O Lado Bom da Vida (2008),4.5,David O. Russell,Comédia
+Wall-E (2008),4.8,Andrew Stanton,Animação
+Slumdog Millionaire (2008),4.7,Danny Boyle,Drama
+A Orfã (2008),4.3,J.A. Bayona,Terror
+O Último Mestre do Ar (2008),4.1,M. Night Shyamalan,Aventura
+O Código Da Vinci (2008),4.2,Ron Howard,Thriller
+Os Estranhas (2008),4.2,Martin McDonagh,Comédia
+Homem de Ferro (2008),4.6,Jon Favreau,Ação
+Quero Falar com Philip (2008),4.4,Rami Alayan,Drama
+O Procurado (2008),4.3,Timur Bekmambetov,Ação
+A Viagem de Chihiro (2008),4.5,Hayao Miyazaki,Animação
+Frost/Nixon (2008),4.4,Ron Howard,Biografia
+A Morte e Vida de Charlie St. Cloud (2008),4.2,Burr Steers,Drama
+Avatar (2009),4.8,James Cameron,Ficção Científica
+Os Infiltrados (2009),4.6,Martin Scorsese,Thriller
+Bastardos Inglórios (2009),4.7,Quentin Tarantino,Guerra
+Up - Altas Aventuras (2009),4.6,Pete Docter,Animação
+Preciosa (2009),4.5,Lee Daniels,Drama
+O Escafandro e a Borboleta (2009),4.5,Julian Schnabel,Drama
+A Estranha Perfeita (2009),4.4,Katherine Hardwicke,Drama
+Um Sonho de Liberdade (2009),4.4,Michael Mann,Drama
+Onde Vivem os Monstros (2009),4.3,Spike Jonze,Fantasia
+Star Trek (2009),4.5,J.J. Abrams,Aventura
+O Código Da Vinci (2009),4.2,Ron Howard,Thriller
+Amor Sem Fronteiras (2009),4.1,Brett Ratner,Drama
+Os Fantasmas de Scrooge (2009),4.3,Robert Zemeckis,Animação
+A Estrada (2009),4.2,John Hillcoat,Drama
+Feliz Natal (2009),4.0,Christian Carion,Drama
+O Último Mestre do Ar (2009),4.1,M. Night Shyamalan,Aventura
+A Origem (2010),4.8,Christopher Nolan,Ficção Científica
+O Discurso do Rei (2010),4.6,Tom Hooper,Drama
+Cisne Negro (2010),4.7,Darren Aronofsky,Drama
+A Rede Social (2010),4.5,David Fincher,Biografia
+Toy Story 3 (2010),4.7,Lee Unkrich,Animação
+O Lobo de Wall Street (2010),4.5,Martin Scorsese,Drama
+Bravura Indômita (2010),4.4,Joel e Ethan Coen,Western
+O Escritor Fantasma (2010),4.4,Roman Polanski,Thriller
+O Todo Poderoso (2010),4.3,Tom Shadyac,Comédia
+A Garota da Capa Vermelha (2010),4.1,Catherine Hardwicke,Terror
+O Último Mestre do Ar (2010),4.2,M. Night Shyamalan,Aventura
+A Estrada (2010),4.2,John Hillcoat,Drama
+O Vencedor (2010),4.3,David O. Russell,Drama
+Harry Potter e as Relíquias da Morte – Parte 1 (2010),4.4,Davies Yates,Fantasia
+Muitos Vivos (2010),4.0,Andrew Stanton,Animação
+O Artista (2011),4.8,Michel Hazanavicius,Drama
+Cisne Negro (2011),4.7,Darren Aronofsky,Drama
+Os Descendentes (2011),4.6,Alexander Payne,Drama
+A Invenção de Hugo Cabret (2011),4.5,Martin Scorsese,Aventura
+Missão: Impossível – Protocolo Fantasma (2011),4.4,Brad Bird,Ação
+Harry Potter e as Relíquias da Morte – Parte 2 (2011),4.5,Davies Yates,Fantasia
+Meia-Noite em Paris (2011),4.4,Woody Allen,Comédia
+A Intérprete (2011),4.3,Sergei Bodrov,Drama
+O Espião que Sabia Demais (2011),4.2,Tomas Alfredson,Thriller
+A Mulher de Preto (2011),4.3,James Watkins,Terror
+Os Muppets (2011),4.4,James Bobin,Comédia
+A Separação (2011),4.6,Asghar Farhadi,Drama
+Os Pinguins do Papai (2011),4.2,Eric Darnell,Animação
+A Rede Social (2011),4.3,David Fincher,Biografia
+Rango (2011),4.5,Gore Verbinski,Animação
+O Último Desafio (2011),4.1,Kim Jee-woon,Ação
+O Lobo de Wall Street (2012),4.7,Martin Scorsese,Drama
+Argo (2012),4.5,Ben Affleck,Biografia
+A Vida de Pi (2012),4.6,Ang Lee,Aventura
+Os Vingadores (2012),4.8,Joss Whedon,Ação
+Django Livre (2012),4.6,Quentin Tarantino,Drama
+A Espera (2012),4.4,Paolo Sorrentino,Drama
+Os Miseráveis (2012),4.5,Tom Hooper,Musical
+A Invenção de Hugo Cabret (2012),4.4,Martin Scorsese,Aventura
+O lado bom da vida (2012),4.5,David O. Russell,Comédia
+O Exótico Hotel Marigold (2012),4.3,John Madden,Comédia
+O Hobbit: Uma Jornada Inesperada (2012),4.2,Peter Jackson,Aventura
+A Morte do Demônio (2012),4.1,Fede Alvarez,Terror
+As Aventuras de Pi (2012),4.4,Ang Lee,Aventura
+Os Sem-Floresta (2012),4.3,Tim Johnson,Animação
+A Possessão (2012),4.0,Ole Bornedal,Terror
+12 Anos de Escravidão (2013),4.7, Steve McQueen, Drama
+Gravidade (2013),4.6, Alfonso Cuarón, Ficção Científica
+O Lobo de Wall Street (2013),4.5, Martin Scorsese, Comédia
+A Grande Beleza (2013),4.5, Paolo Sorrentino, Drama
+O Hobbit: A Desolação de Smaug (2013),4.4, Peter Jackson, Fantasia
+Her (2013),4.4, Spike Jonze, Drama
+O Homem de Aço (2013),4.3, Zack Snyder, Ação
+O Vendedor de Passados (2013),4.3, Lula Buarque de Hollanda, Drama
+Django Livre (2013),4.3, Quentin Tarantino, Western
+A Caverna (2013),4.2, Luciano Sabino, Drama
+O Espião Que Sabia Demais (2013),4.2, Tomas Alfredson, Suspense
+Lovelace (2013),4.1, Rob Epstein, Jeffrey Friedman, Drama
+O Hospedeiro (2013),4.1, Andrew Niccol, Ficção Científica
+Os Miseráveis (2013),4.0, Tom Hooper, Musical
+Parker (2013),4.0, Taylor Hackford, Ação
+Birdman (2014),4.7, Alejandro G. Iñárritu, Drama
+O Grande Hotel Budapeste (2014),4.6, Wes Anderson, Comédia
+Whiplash (2014),4.6, Damien Chazelle, Drama
+Boyhood (2014),4.5, Richard Linklater, Drama
+Interestelar (2014),4.5, Christopher Nolan, Ficção Científica
+O Jogo da Imitação (2014),4.4, Morten Tyldum, Drama
+Guardiões da Galáxia (2014),4.4, James Gunn, Ação
+O Homem Mais Procurado (2014),4.3, Anton Corbijn, Suspense
+A Teoria de Tudo (2014),4.3, James Marsh, Drama
+Maze Runner: Correr ou Morrer (2014),4.2, Wes Ball, Ação
+Como Treinar o Seu Dragão 2 (2014),4.2, Dean DeBlois, Animação
+A Culpa é das Estrelas (2014),4.1, Josh Boone, Drama
+Noé (2014),4.1, Darren Aronofsky, Ação
+O Novo Testamento (2014),4.0, Jaco Van Dormael, Comédia
+O Lobo de Wall Street (2014),4.0, Martin Scorsese, Comédia
+Mad Max: Estrada da Fúria (2015),4.8, George Miller, Ação
+O Regresso (2015),4.7, Alejandro G. Iñárritu, Drama
+O Quarto de Jack (2015),4.6, Lenny Abrahamson, Drama
+A Grande Aposta (2015),4.6, Adam McKay, Drama
+Spotlight: Segredos Revelados (2015),4.5, Tom McCarthy, Drama
+Divertida Mente (2015),4.5, Pete Docter, Animação
+Carol (2015),4.4, Todd Haynes, Drama
+A Espia (2015),4.4, Steven Spielberg, Suspense
+Coração Louco (2015),4.3, David O. Russell, Comédia
+O Destino dos Velozes e Furiosos (2015),4.3, James Wan, Ação
+Sicario: Terra de Ninguém (2015),4.2, Denis Villeneuve, Suspense
+O Aviador (2015),4.2, Martin Scorsese, Drama
+O Pequeno Príncipe (2015),4.1, Mark Osborne, Animação
+Ex Machina (2015),4.1, Alex Garland, Ficção Científica
+Vingadores: Era de Ultron (2015),4.0, Joss Whedon, Ação
+La La Land: Cantando Estações (2016),4.8, Damien Chazelle, Musical
+Moonlight: Sob a Luz do Luar (2016),4.7, Barry Jenkins, Drama
+Até o Último Homem (2016),4.6, Mel Gibson, Guerra
+Manchester à Beira-Mar (2016),4.6, Kenneth Lonergan, Drama
+A Chegada (2016),4.5, Denis Villeneuve, Ficção Científica
+Animais Noturnos (2016),4.5, Tom Ford, Suspense
+Capitão Fantástico (2016),4.4, Matt Ross, Drama
+O Livro de Imagens (2016),4.4, Jean-Luc Godard, Documentário
+A Lenda de Tarzan (2016),4.3, David Yates, Ação
+O Caso Spotlight (2016),4.3, Tom McCarthy, Drama
+Sully: O Herói do Rio Hudson (2016),4.2, Clint Eastwood, Drama
+Com Amor e Sorte (2016),4.2, Garth Jennings, Comédia
+Jack Reacher: Sem Retorno (2016),4.1, Edward Zwick, Ação
+A Lei da Noite (2016),4.1, Ben Affleck, Crime
+Moana: Um Mar de Aventuras (2016),4.0, Ron Clements, Animação
+Corra! (2017),4.8, Jordan Peele, Terror
+Dunkirk (2017),4.7, Christopher Nolan, Guerra
+A Forma da Água (2017),4.7, Guillermo del Toro, Fantasia
+Lady Bird - A Hora de Voar (2017),4.6, Greta Gerwig, Comédia
+Three Billboards Outside Ebbing, Missouri (2017),4.6, Martin McDonagh, Drama
+O Destino dos Velozes e Furiosos (2017),4.5, F. Gary Gray, Ação
+Mudbound (2017),4.5, Dee Rees, Drama
+O Poderoso Chefinho (2017),4.4, Tom McGrath, Animação
+Logan (2017),4.4, James Mangold, Ação
+A Guerra dos Planetas (2017),4.3, Luc Besson, Ficção Científica
+The Disaster Artist (2017),4.3, James Franco, Comédia
+O Rei do Show (2017),4.2, Michael Gracey, Musical
+Blade Runner 2049 (2017),4.2, Denis Villeneuve, Ficção Científica
+O Livro de Henry (2017),4.1, Colin Trevorrow, Drama
+Rosencrantz e Guildenstern Estão Mortos (2017),4.1, Tom Stoppard, Comédia
+Pantera Negra (2018),4.7, Ryan Coogler, Ação
+Roma (2018),4.7, Alfonso Cuarón, Drama
+A Favorita (2018),4.6, Yorgos Lanthimos, Drama
+Nasce uma Estrela (2018),4.6, Bradley Cooper, Drama
+O Infiltrado na Klan (2018),4.5, Spike Lee, Drama
+Bohemian Rhapsody (2018),4.5, Bryan Singer, Musical
+Vingadores: Guerra Infinita (2018),4.4, Anthony e Joe Russo, Ação
+A Grande Jogada (2018),4.4, Aaron Sorkin, Drama
+Spider-Man: No Aranhaverso (2018),4.3, Bob Persichetti, Peter Ramsey e Rodney Rothman, Animação
+Um Lugar Silencioso (2018),4.3, John Krasinski, Terror
+Os Incríveis 2 (2018),4.2, Brad Bird, Animação
+Hereditário (2018),4.2, Ari Aster, Terror
+O Que De Verdade Importa (2018),4.1, Paco Arango, Drama
+No Olho do Tornado (2018),4.1, Steven Quale, Ação
+A Maldição da Casa Winchester (2018),4.0, Michael Spierig e Peter Spierig, Terror
+Parasita (2019),4.8, Bong Joon-ho, Drama
+1917 (2019),4.7, Sam Mendes, Guerra
+O Irlandês (2019),4.7, Martin Scorsese, Crime
+Coringa (2019),4.6, Todd Phillips, Drama
+Era uma Vez em... Hollywood (2019),4.6, Quentin Tarantino, Drama
+Jojo Rabbit (2019),4.5, Taika Waititi, Comédia
+Ford vs Ferrari (2019),4.5, James Mangold, Ação
+Joias Brutas (2019),4.4, Benny Safdie e Josh Safdie, Drama
+Midsommar (2019),4.4, Ari Aster, Terror
+O Farol (2019),4.3, Robert Eggers, Drama
+A Família Addams (2019),4.3, Conrad Vernon e Greg Tiernan, Animação
+O Rei (2019),4.2, David Michôd, Drama
+O Sol Também é uma Estrela (2019),4.2, Ry Russo-Young, Romance
+Klaus (2019),4.1, Sergio Pablos, Animação
+Hobbs & Shaw (2019),4.1, David Leitch, Ação
+Nomadland (2020),4.8, Chloé Zhao, Drama
+O Menino que Descobriu o Vento (2020),4.7, Chiwetel Ejiofor, Drama
+O Som do Metal (2020),4.7, Darius Marder, Drama
+Minari (2020),4.6, Lee Isaac Chung, Drama
+A Voz Suprema do Blues (2020),4.6, George C. Wolfe, Drama
+Soul (2020),4.5, Pete Docter e Kemp Powers, Animação
+O Pai (2020),4.5, Florian Zeller, Drama
+A Menina que Roubava Livros (2020),4.4, Brian Percival, Drama
+Palm Springs (2020),4.4, Max Barbakow, Comédia
+A Rainha de Black Friday (2020),4.3, Jake Kasdan, Ação
+Luta pela Liberdade (2020),4.3, Regina King, Drama
+Enola Holmes (2020),4.2, Harry Bradbeer, Aventura
+Da 5 Bloods: Irmãos de Armas (2020),4.2, Spike Lee, Guerra
+O Diabo de Cada Dia (2020),4.1, Antonio Campos, Drama
+A Beleza de um Dia (2020),4.1, Andrew Haigh, Romance
+Duna (2021),4.8, Denis Villeneuve, Ficção Científica
+Belfast (2021),4.7, Kenneth Branagh, Drama
+O Poderoso Chefinho 2: Negócios da Família (2021),4.7, Tom McGrath, Animação
+Ataque dos Cães (2021),4.6, Jane Campion, Drama
+Licorice Pizza (2021),4.6, Paul Thomas Anderson, Comédia
+West Side Story (2021),4.5, Steven Spielberg, Musical
+O Beco do Pesadelo (2021),4.5, Guillermo del Toro, Thriller
+Noite de Paz (2021),4.4, Emma Roberts, Comédia
+Red: Crescer é uma Fera (2021),4.4, Domee Shi, Animação
+A Filha Perdida (2021),4.3, Maggie Gyllenhaal, Drama
+A Mãe do Blues (2021),4.3, George C. Wolfe, Drama
+King Richard: Criando Campeãs (2021),4.2, Reinaldo Marcus Green, Drama
+Spider-Man: Sem Volta Para Casa (2021),4.2, Jon Watts, Ação
+Don’t Look Up: Não Olhe Para Cima (2021),4.1, Adam McKay, Comédia
+A Casa Gucci (2021),4.1, Ridley Scott, Drama
+Tudo em Todo Lugar ao Mesmo Tempo (2022),4.8, Daniel Kwan, Daniel Scheinert, Ficção Científica
+Os Fabelmans (2022),4.7, Steven Spielberg, Drama
+Tár (2022),4.7, Todd Field, Drama
+Avatar: O Caminho da Água (2022),4.6, James Cameron, Ficção Científica
+Top Gun: Maverick (2022),4.6, Joseph Kosinski, Ação
+The Banshees of Inisherin (2022),4.5, Martin McDonagh, Drama
+A Mulher Rei (2022),4.5, Gina Prince-Bythewood, Ação
+Elvis (2022),4.4, Baz Luhrmann, Biografia
+Nope (2022),4.4, Jordan Peele, Horror
+Everything Everywhere All at Once (2022),4.3, Daniel Kwan, Daniel Scheinert, Ficção Científica
+Aftersun (2022),4.3, Charlotte Wells, Drama
+Men (2022),4.2, Alex Garland, Horror
+Bones and All (2022),4.2, Luca Guadagnino, Drama
+Sorria (2022),4.1, Parker Finn, Terror
+Kimi (2022),4.1, Steven Soderbergh, Thriller
+Oppenheimer (2023),4.8, Christopher Nolan, Biografia
+Barbie (2023),4.7, Greta Gerwig, Comédia
+Killers of the Flower Moon (2023),4.6, Martin Scorsese, Crime
+Past Lives (2023),4.6, Celine Song, Drama
+Spider-Man: Através do Aranhaverso (2023),4.5, Joaquim Dos Santos, Kemp Powers, Justin K. Thompson, Animação
+Duna: Parte Dois (2023),4.5, Denis Villeneuve, Ficção Científica
+The Marvels (2023),4.4, Nia DaCosta, Ação
+The Holdovers (2023),4.4, Alexander Payne, Comédia
+Guardians of the Galaxy Vol. 3 (2023),4.3, James Gunn, Ação
+The Killer (2023),4.3, David Fincher, Thriller
+John Wick: Capítulo 4 (2023),4.2, Chad Stahelski, Ação
+Priscilla (2023),4.2, Sofia Coppola, Biografia
+Asteroid City (2023),4.1, Wes Anderson, Comédia
+Dungeons & Dragons: Honra Entre Rebeldes (2023),4.1, Jonathan Goldstein, John Francis Daley, Aventura
+The Color Purple (2023),4.0, Blitz Bazawule, Musical
+Duna: Parte Três (2024),4.8, Denis Villeneuve, Ficção Científica
+Killers of the Flower Moon 2 (2024),4.7, Martin Scorsese, Crime
+Oppenheimer: A Continuação (2024),4.6, Christopher Nolan, Biografia
+Barbie 2 (2024),4.6, Greta Gerwig, Comédia
+The Marvels 2 (2024),4.5, Nia DaCosta, Ação
+Spider-Man: Através do Aranhaverso Parte Dois (2024),4.5, Joaquim Dos Santos, Kemp Powers, Justin K. Thompson, Animação
+Priscilla 2 (2024),4.4, Sofia Coppola, Biografia
+Guardians of the Galaxy Vol. 4 (2024),4.4, James Gunn, Ação
+John Wick: Capítulo 5 (2024),4.3, Chad Stahelski, Ação
+The Killer: Reloaded (2024),4.3, David Fincher, Thriller
+Past Lives 2 (2024),4.2, Celine Song, Drama
+The Holdovers 2 (2024),4.2, Alexander Payne, Comédia
+Dungeons & Dragons: Nova Aventura (2024),4.1, Jonathan Goldstein, John Francis Daley, Aventura
+Asteroid City 2 (2024),4.1, Wes Anderson, Comédia
+The Color Purple: Nova Geração (2024),4.0, Blitz Bazawule, Musical

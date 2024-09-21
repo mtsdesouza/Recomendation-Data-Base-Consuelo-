@@ -1,0 +1,964 @@
+title,rating,director,genres
+A Fraternidade é Vermelha,7.917,Krzysztof Kieślowski,"Drama, Mistério, Romance"
+O Conformista,7.669,Bernardo Bertolucci,Drama
+Tokyo Story,0.0,Hal Torii,
+O Poderoso Chefão,8.69,Francis Ford Coppola,"Drama, Crime"
+Boyhood: Da Infância à Juventude,7.502,Richard Linklater,Drama
+Playtime - Tempo de Diversão,7.748,Jacques Tati,Comédia
+O Exército das Sombras,7.9,Jean-Pierre Melville,"Guerra, História, Thriller"
+Moonlight: Sob a Luz do Luar,7.4,Barry Jenkins,Drama
+Moonlight: Sob a Luz do Luar,7.4,Barry Jenkins,Drama
+Moonlight: Sob a Luz do Luar,7.4,Barry Jenkins,Drama
+Moonlight: Sob a Luz do Luar,7.4,Barry Jenkins,Drama
+O Labirinto do Fauno,7.757,Guillermo del Toro,"Fantasia, Drama, Guerra"
+Basquete Blues,7.626,Steve James,Documentário
+Meu Pé Esquerdo,7.538,Jim Sheridan,Drama
+Ran,1.0,Lital Yosefi,
+"Quo Vadis, Aida?",7.6,Jasmila Žbanić,"Guerra, Drama, História"
+"4 Meses, 3 Semanas e 2 Dias",7.534,Cristian Mungiu,Drama
+Parasita,4.9,Charles Band,"Terror, Ficção científica"
+Loucuras de Verão,7.032,George Lucas,"Comédia, Drama"
+Roma,7.652,Alfonso Cuarón,Drama
+A Viagem de Chihiro,8.537,Hayao Miyazaki,"Animação, Família, Fantasia"
+Toy Story: Um Mundo de Aventuras,7.971,John Lasseter,"Animação, Aventura, Família, Comédia"
+"Summer of Soul (...ou, Quando a Revolução Não Pôde Ser Televisionada)",7.657,Questlove,"Música, Documentário, História"
+12 Anos de Escravidão,7.942,Steve McQueen,"Drama, História"
+Manchester à Beira-Mar,7.547,Kenneth Lonergan,Drama
+A Batalha de Argel,7.888,Gillo Pontecorvo,"Drama, Guerra, História"
+O Matador de Ovelhas,6.456,Charles Burnett,Drama
+Nashville,7.235,Robert Altman,"Drama, Música, Comédia"
+Ratatouille,7.824,Brad Bird,"Animação, Comédia, Família, Fantasia"
+Caminhos Perigosos,7.1,Martin Scorsese,"Drama, Crime"
+Gravidade,7.166,Alfonso Cuarón,"Ficção científica, Thriller, Drama"
+A Bela e a Fera,6.97,Bill Condon,"Família, Fantasia, Romance"
+A Bela e a Fera,6.97,Bill Condon,"Família, Fantasia, Romance"
+A Bela e a Fera,6.97,Bill Condon,"Família, Fantasia, Romance"
+A Bela e a Fera,6.97,Bill Condon,"Família, Fantasia, Romance"
+A Bela e a Fera,6.97,Bill Condon,"Família, Fantasia, Romance"
+A Bela e a Fera,6.97,Bill Condon,"Família, Fantasia, Romance"
+A Bela e a Fera,6.97,Bill Condon,"Família, Fantasia, Romance"
+A Bela e a Fera,6.97,Bill Condon,"Família, Fantasia, Romance"
+A Bela e a Fera,6.97,Bill Condon,"Família, Fantasia, Romance"
+Inverno de Sangue em Veneza,6.938,Nicolas Roeg,"Thriller, Drama, Terror"
+A Rede Social,7.369,David Fincher,Drama
+Retrato de uma Jovem em Chamas,8.1,Céline Sciamma,"Drama, Romance, História"
+Eu Não Sou Seu Negro,7.727,Raoul Peck,Documentário
+"Woodstock - 3 Dias de Paz, Amor e Música",7.542,Michael Wadleigh,"Documentário, História, Música"
+Não Espere Muito do Fim do Mundo,7.3,Radu Jude,"Comédia, Drama"
+Aftersun,7.677,Charlotte Wells,Drama
+Rocks,6.6,Sarah Gavron,Drama
+Amor,7.773,Michael Haneke,"Drama, Romance"
+Guerra ao Terror,7.257,Kathryn Bigelow,"Drama, Thriller, Guerra"
+Pulp Fiction: Tempo de Violência,8.488,Quentin Tarantino,"Thriller, Crime"
+A Hora Mais Escura,6.993,Kathryn Bigelow,"Thriller, Drama"
+Collective,7.604,Alexander Nanau,Documentário
+A Separation,7.0,Yalan Hu,Drama
+A Lista de Schindler,8.565,Steven Spielberg,"Drama, História, Guerra"
+WALL-E,8.091,Andrew Stanton,"Animação, Família, Ficção científica"
+Carol,7.5,Todd Haynes,"Romance, Drama"
+Antes da Meia-Noite,7.512,Richard Linklater,"Romance, Drama"
+Amazing Grace,7.172,Alan Elliott,"Música, Documentário"
+Amazing Grace,7.172,Alan Elliott,"Música, Documentário"
+Amazing Grace,7.172,Alan Elliott,"Música, Documentário"
+Amazing Grace,7.172,Alan Elliott,"Música, Documentário"
+Dunkirk,7.456,Christopher Nolan,"Guerra, Ação, Drama"
+45 Anos,6.591,Andrew Haigh,"Drama, Romance"
+Taxi Driver: Motorista de Táxi,8.144,Martin Scorsese,"Crime, Drama"
+Bên Trong Vỏ Kén Vàng,6.141,Pham Thien An,Drama
+The Legendary Courtesan Hwang Jin-yi,6.6,장윤현,"Drama, Romance, História"
+Sr. Turner,6.5,Mike Leigh,"História, Drama"
+O Irlandês,7.606,Martin Scorsese,"Crime, Drama, História"
+O Tigre e o Dragão,7.425,李安,"Aventura, Drama, Ação, Romance"
+O Garoto Selvagem,7.1,François Truffaut,"Drama, História"
+Stop Making Sense,8.3,Jonathan Demme,"Documentário, Música"
+Divertida Mente 2,7.666,Kelsey Mann,"Animação, Família, Aventura, Comédia, Fantasia"
+Divertida Mente 2,7.666,Kelsey Mann,"Animação, Família, Aventura, Comédia, Fantasia"
+Divertida Mente 2,7.666,Kelsey Mann,"Animação, Família, Aventura, Comédia, Fantasia"
+Divertida Mente 2,7.666,Kelsey Mann,"Animação, Família, Aventura, Comédia, Fantasia"
+Sideways: Entre Umas e Outras,7.093,Alexander Payne,"Comédia, Drama, Romance"
+Apocalypse Now,8.279,Francis Ford Coppola,"Drama, Guerra"
+We Were Here,7.0,David Weissman,Documentário
+"Visages, villages",7.678,Agnès Varda,Documentário
+Cinzas no Paraíso,7.505,Terrence Malick,"Drama, Romance"
+Vidas Passadas,7.8,Celine Song,"Drama, Romance"
+O Senhor dos Anéis: O Retorno do Rei,8.48,Peter Jackson,"Aventura, Fantasia, Ação"
+Me Chame Pelo Seu Nome,8.132,Luca Guadagnino,"Romance, Drama"
+Trenque Lauquen,6.9,Laura Citarella,"Mistério, Drama, Thriller"
+Trenque Lauquen,6.9,Laura Citarella,"Mistério, Drama, Thriller"
+"Carlos, o Chacal",6.995,Olivier Assayas,"Crime, Drama, Thriller, História"
+História de um Casamento,7.738,Noah Baumbach,Drama
+Operação França,7.525,William Friedkin,"Ação, Crime, Thriller"
+La La Land: Cantando Estações,7.902,Damien Chazelle,"Comédia, Drama, Romance, Música"
+Jeanne Dielman,7.4,Chantal Akerman,Drama
+Pequena Mamãe,7.148,Céline Sciamma,"Drama, Fantasia"
+Lady Bird - A Hora de Voar,7.265,Greta Gerwig,"Drama, Comédia"
+O Reverso da Fortuna,6.634,Barbet Schroeder,Drama
+David Byrne's American Utopia,7.464,Spike Lee,"Música, Documentário"
+Assunto de Família,7.858,Hirokazu Koreeda,"Drama, Crime, Thriller"
+Les Quatre Sœurs,6.3,Claude Lanzmann,Documentário
+Toni Erdmann,6.968,Maren Ade,"Comédia, Drama"
+O Discreto Charme da Burguesia,7.49,Luis Buñuel,Comédia
+Joias Brutas,7.152,Josh Safdie,"Drama, Thriller, Crime"
+Inside Llewyn Davis: Balada de um Homem Comum,7.195,Ethan Coen,"Drama, Música"
+Nossos Corpos,8.3,Claire Simon,Documentário
+Sherpa,7.453,Jennifer Peedom,Documentário
+Sangue Negro,8.081,Paul Thomas Anderson,Drama
+A Última Sessão de Cinema,7.649,Peter Bogdanovich,Drama
+É Difícil Ser Um Deus,6.6,Aleksei German Sr.,"Drama, Ficção científica"
+Faça a Coisa Certa,7.76,Spike Lee,Drama
+Sita Sings the Blues,7.0,Nina Paley,"Animação, Drama, Música, Romance, Fantasia"
+The Decline of Western Civilization,7.168,Penelope Spheeris,"Documentário, Música"
+TÁR,7.088,Todd Field,"Drama, Música"
+Brother's Keeper,6.913,Bruce Sinofsky,Documentário
+Terra de Ninguém,7.505,Terrence Malick,"Crime, Drama, Romance"
+Sankofa,6.0,Haile Gerima,"Drama, Fantasia, História, Ficção científica"
+Crumb,7.544,Terry Zwigoff,Documentário
+Boonie Bears – Uma Aventura no Passado,6.9,丁亮,"Animação, Família, Aventura, Fantasia"
+Spotlight: Segredos Revelados,7.818,Tom McCarthy,"Drama, História"
+One More Time with Feeling,7.841,Andrew Dominik,"Documentário, Música"
+Sugarcane,0.0,Emily Kassie,Documentário
+Memória,6.014,Apichatpong Weerasethakul,"Drama, Ficção científica, Mistério"
+O Escafandro e a Borboleta,7.567,Julian Schnabel,"Drama, História"
+Close-Up,7.904,Abbas Kiarostami,"Crime, Drama"
+The Classic,7.5,곽재용,"Drama, Romance"
+Platoon,7.742,Oliver Stone,"Drama, Guerra, Ação"
+Onde os Fracos Não Têm Vez,7.944,Joel Coen,"Crime, Drama, Thriller"
+Chinatown,7.916,Roman Polanski,"Crime, Drama, Mistério, Thriller"
+Here,0.0,Robert Zemeckis,Drama
+Here,0.0,Robert Zemeckis,Drama
+Here,0.0,Robert Zemeckis,Drama
+Here,0.0,Robert Zemeckis,Drama
+35 Doses de Rum,6.829,Claire Denis,Drama
+Apocalypse Now,8.279,Francis Ford Coppola,"Drama, Guerra"
+Projeto Flórida,7.417,Sean Baker,Drama
+Timbuktu,6.98,Abderrahmane Sissako,"Drama, Guerra"
+Frenzy,3.8,Jose Montesinos,"Terror, Thriller, Cinema TV"
+DAYS,0.0,Evan Garde,Drama
+O Ato De Matar,7.7,Joshua Oppenheimer,Documentário
+De humani corporis fabrica,7.321,Véréna Paravel,Documentário
+Maborosi,7.303,Hirokazu Koreeda,Drama
+E.T.: O Extraterrestre,7.519,Steven Spielberg,"Ficção científica, Aventura, Família, Fantasia"
+Apocalypse Now,8.279,Francis Ford Coppola,"Drama, Guerra"
+Nunca Raramente Às vezes Sempre,7.166,Eliza Hittman,Drama
+"Noivo Neurótico, Noiva Nervosa",7.749,Woody Allen,"Comédia, Drama, Romance"
+O Senhor dos Anéis: A Sociedade do Anel,8.415,Peter Jackson,"Aventura, Fantasia, Ação"
+Quiz Show: A Verdade dos Bastidores,7.269,Robert Redford,"História, Drama, Mistério"
+Leviathan,5.947,George P. Cosmatos,"Aventura, Terror, Thriller, Ficção científica"
+Leviathan,5.947,George P. Cosmatos,"Aventura, Terror, Thriller, Ficção científica"
+Leviathan,5.947,George P. Cosmatos,"Aventura, Terror, Thriller, Ficção científica"
+Leviathan,5.947,George P. Cosmatos,"Aventura, Terror, Thriller, Ficção científica"
+Leviathan,5.947,George P. Cosmatos,"Aventura, Terror, Thriller, Ficção científica"
+Leviathan,5.947,George P. Cosmatos,"Aventura, Terror, Thriller, Ficção científica"
+Leviathan,5.947,George P. Cosmatos,"Aventura, Terror, Thriller, Ficção científica"
+Leviathan,5.947,George P. Cosmatos,"Aventura, Terror, Thriller, Ficção científica"
+Leviathan,5.947,George P. Cosmatos,"Aventura, Terror, Thriller, Ficção científica"
+Menus-Plaisirs - Les Troisgros,8.2,Frederick Wiseman,Documentário
+As Harmonias de Werckmeister,7.9,Béla Tarr,Drama
+Toy Story 3,7.799,Lee Unkrich,"Animação, Família, Comédia"
+O Souvenir,6.055,Joanna Hogg,"Romance, Drama"
+Isto é Spinal Tap,7.4,Rob Reiner,"Música, Comédia"
+Os Bons Companheiros,8.462,Martin Scorsese,"Drama, Crime"
+Zona de Interesse,7.143,Jonathan Glazer,"Drama, História"
+O Peso do Silêncio,7.822,Joshua Oppenheimer,"História, Documentário"
+Tower,7.6,Keith Maitland,"Animação, Crime, Documentário"
+Burning,7.0,Eva Orner,Documentário
+Drive My Car,7.414,Ryusuke Hamaguchi,Drama
+Moolaadé,7.086,Ousmane Sembène,Drama
+Conto de Verão,7.4,Éric Rohmer,"Romance, Drama, Comédia"
+Saint Omer,6.318,Alice Diop,"Drama, Crime"
+ᐊᑕᓈᕐᔪᐊᑦ,6.985,Zacharias Kunuk,"Fantasia, Drama"
+Los Angeles: Cidade Proibida,7.796,Curtis Hanson,"Crime, Mistério, Thriller"
+Time,6.881,Garrett Bradley,Documentário
+Time,6.881,Garrett Bradley,Documentário
+Time,6.881,Garrett Bradley,Documentário
+Time,6.881,Garrett Bradley,Documentário
+A Igualdade é Branca,7.46,Krzysztof Kieślowski,"Comédia, Drama, Mistério"
+Gavagai,6.5,Rob Tregenza,Drama
+"Uma Fábrica de Pão, Parte 2: Caminhe Comigo um Pouco",6.3,Patrick Wang,"Comédia, Drama"
+O Vencedor,7.113,Peter Yates,"Drama, Comédia"
+Encontros e Desencontros,7.393,Sofia Coppola,"Drama, Romance"
+Além da Vida,6.301,Agnieszka Wojtowicz-Vosloo,"Drama, Terror, Mistério, Thriller"
+Filho de Saul,7.146,László Nemes,"Guerra, Drama, Thriller"
+Adoráveis Mulheres,7.881,Greta Gerwig,"Drama, Romance, História"
+Adoráveis Mulheres,7.881,Greta Gerwig,"Drama, Romance, História"
+Adoráveis Mulheres,7.881,Greta Gerwig,"Drama, Romance, História"
+Adoráveis Mulheres,7.881,Greta Gerwig,"Drama, Romance, História"
+Adoráveis Mulheres,7.881,Greta Gerwig,"Drama, Romance, História"
+Adoráveis Mulheres,7.881,Greta Gerwig,"Drama, Romance, História"
+Adoráveis Mulheres,7.881,Greta Gerwig,"Drama, Romance, História"
+Adoráveis Mulheres,7.881,Greta Gerwig,"Drama, Romance, História"
+Adoráveis Mulheres,7.881,Greta Gerwig,"Drama, Romance, História"
+Eu Sou Cuba,7.8,Mikhail Kalatozov,Drama
+Monty Python em Busca do Cálice Sagrado,7.802,Terry Jones,"Aventura, Comédia, Fantasia"
+As Bicicletas de Belleville,7.377,Sylvain Chomet,"Animação, Comédia, Drama"
+O Homem Que Queria Ser Rei,7.495,John Huston,"Aventura, Drama"
+Sweeney Todd: O Barbeiro Demoníaco da Rua Fleet,7.183,Tim Burton,"Drama, Terror"
+Ex Libris: The New York Public Library,6.2,Frederick Wiseman,Documentário
+O Massacre da Serra Elétrica,7.287,Tobe Hooper,Terror
+Tótem,6.875,Lila Avilés,"Drama, Comédia"
+Stories We Tell,7.06,Sarah Polley,Documentário
+O Menino e a Garça,7.506,Hayao Miyazaki,"Animação, Aventura, Fantasia, Família"
+"Uma Fábrica de Pão, Parte 1; Por Causa do Ouro",6.6,Patrick Wang,"Drama, Comédia"
+Taxi Teerã,7.043,Jafar Panahi,"Comédia, Drama"
+Ida,7.243,Paweł Pawlikowski,Drama
+All the Beauty and the Bloodshed,7.453,Laura Poitras,Documentário
+Bom Trabalho,6.959,Claire Denis,Drama
+Ela,7.856,Spike Jonze,"Romance, Ficção científica, Drama"
+Valsa com Bashir,7.696,Ari Folman,"Drama, Animação, Guerra, Documentário"
+Hit the Road,0.0,Joe May,"Crime, Comédia"
+"Isso Não é um Enterro, é uma Ressurreição",7.304,Lemohang Jeremiah Mosese,Drama
+Eles Não Envelhecerão,7.788,Peter Jackson,"Documentário, História, Guerra"
+A Favorita,7.516,Yorgos Lanthimos,"Drama, Comédia, Thriller, História"
+O Doce Amanhã,6.91,Atom Egoyan,Drama
+Os Eleitos: Onde o Futuro Começa,7.445,Philip Kaufman,"Drama, História, Aventura"
+Nostalgia da Luz,7.392,Patricio Guzmán,Documentário
+The Gatekeepers,0.0,Desconhecido,
+Antes do Pôr do Sol,7.816,Richard Linklater,"Drama, Romance"
+La Chimera,7.4,Alice Rohrwacher,"Comédia, Drama, Aventura, Fantasia"
+A Pior Pessoa do Mundo,7.503,Joachim Trier,"Drama, Romance, Comédia"
+O Resgate do Soldado Ryan,8.218,Steven Spielberg,"Drama, História, Guerra"
+Licorice Pizza,6.978,Paul Thomas Anderson,"Drama, Comédia, Romance"
+32 Sounds,5.5,Sam Green,Documentário
+Traídos pelo desejo,6.8,Neil Jordan,"Crime, Drama, Thriller"
+A Primeira Vaca da América,7.0,Kelly Reichardt,"Drama, Faroeste"
+Mad Max: Estrada da Fúria,7.613,George Miller,"Ação, Aventura, Ficção científica"
+O Samurai,7.771,Jean-Pierre Melville,"Crime, Thriller"
+Halloween - A Noite do Terror,7.558,John Carpenter,"Terror, Thriller"
+Halloween - A Noite do Terror,7.558,John Carpenter,"Terror, Thriller"
+Halloween - A Noite do Terror,7.558,John Carpenter,"Terror, Thriller"
+Halloween - A Noite do Terror,7.558,John Carpenter,"Terror, Thriller"
+Ghost World: Aprendendo a Viver,7.079,Terry Zwigoff,"Comédia, Drama"
+Inverno da Alma,6.811,Debra Granik,"Drama, Mistério"
+A Rainha,6.962,Stephen Frears,"Drama, História"
+O Julgamento de Viviane Amsalem,7.569,Shlomi Elkabetz,Drama
+I Called Him Morgan,7.191,Kasper Collin,"Música, Documentário, História"
+Todos Nós Desconhecidos,7.497,Andrew Haigh,"Romance, Drama, Fantasia"
+Contatos Imediatos do Terceiro Grau,7.354,Steven Spielberg,"Ficção científica, Drama"
+O Poderoso Chefão: Parte II,8.575,Francis Ford Coppola,"Drama, Crime"
+No Caminho da Cura,6.481,Robert Greene,Documentário
+Il mio viaggio in Italia,7.603,Martin Scorsese,Documentário
+Domingo Sangrento,7.261,Paul Greengrass,"Drama, História"
+Azul É A Cor Mais Quente,7.09,Abdellatif Kechiche,"Romance, Drama"
+Trama Fantasma,7.317,Paul Thomas Anderson,"Drama, Romance"
+Anti-Herói Americano,7.179,Shari Springer Berman,"Comédia, Drama"
+Assassinato em Gosford Park,6.855,Robert Altman,"Drama, Mistério, Thriller"
+Wojnarowicz: Fuck You Faggot Fucker,7.2,Chris McKim,Documentário
+My Perestroika,6.429,Robin Hessman,"Documentário, História"
+གངས་རིན་པོ་ཆེ,6.7,Zhang Yang,"Drama, Documentário"
+O Souvenir: Parte II,6.426,Joanna Hogg,Drama
+This is Not a Film,5.0,Michael A. Nickles,"Comédia, Romance"
+Procurando Nemo,7.82,Andrew Stanton,"Animação, Família"
+Topsy-Turvy,6.6,Mike Leigh,"Comédia, Drama, Música, História"
+Quero Ser John Malkovich,7.412,Spike Jonze,"Comédia, Drama, Fantasia"
+Os Incríveis,7.709,Brad Bird,"Ação, Aventura, Animação, Família"
+Zona de Exclusão,7.5,Agnieszka Holland,Drama
+O Peso de uma Premonição,6.5,Robin Hays,Drama
+Quase Famosos,7.508,Cameron Crowe,"Drama, Música"
+Oppenheimer,8.091,Christopher Nolan,"Drama, História"
+Cold War,6.275,Jack Kinney,Animação
+O Show de Truman: O Show da Vida,8.143,Peter Weir,"Comédia, Drama"
+Apenas Uma Vez,7.4,John Carney,"Drama, Música, Romance"
+Big Men,7.3,Rachel Boynton,Documentário
+Hannah e Suas Irmãs,7.5,Woody Allen,"Comédia, Drama"
+O Conto,7.097,Jennifer Fox,"Drama, Mistério"
+Paterson,7.1,Jim Jarmusch,"Drama, Comédia, Romance"
+The Fits,6.383,Anna Rose Holmer,Drama
+Touro Indomável,7.933,Martin Scorsese,Drama
+Voo United 93,7.119,Paul Greengrass,"Drama, História, Crime, Thriller, Ação"
+Na Captura dos Friedmans,7.182,Andrew Jarecki,"Documentário, Crime"
+Trapaça,6.855,David O. Russell,"Drama, Crime"
+Guerra nas Estrelas,8.203,George Lucas,"Aventura, Ação, Ficção científica"
+Persépolis,7.899,Vincent Paronnaud,"Animação, Drama"
+A Época da Inocência,6.986,Martin Scorsese,"Drama, Romance"
+O Franco Atirador,8.0,Nikki Cimino,"Drama, Guerra"
+Brilho Eterno de uma Mente sem Lembranças,8.102,Michel Gondry,"Ficção científica, Drama, Romance"
+O Melhor da Juventude,8.072,Marco Tullio Giordana,"Drama, História, Romance"
+The Overnighters,7.076,Jesse Moss,"Drama, Documentário"
+Cidade das Ilusões,7.056,John Huston,Drama
+A Vida dos Outros,8.032,Florian Henckel von Donnersmarck,"Drama, Thriller"
+Corrida sem Fim,6.9,Monte Hellman,Drama
+O Clã das Adagas Voadoras,7.279,Yimou Zhang,"Aventura, Drama, Ação"
+63 Up,7.167,Michael Apted,Documentário
+Minding the Gap,7.723,Bing Liu,Documentário
+Lances Inocentes,7.1,Steven Zaillian,Drama
+Anora,0.0,Sean Baker,"Comédia, Drama, Romance"
+Whiplash: Em Busca da Perfeição,8.381,Damien Chazelle,"Drama, Música"
+"Dois Dias, Uma Noite",6.892,Jean-Pierre Dardenne,Drama
+Assassinos da Lua das Flores,7.452,Martin Scorsese,"Crime, História, Drama"
+National Gallery,7.3,Frederick Wiseman,Documentário
+Assalto à 13ª DP,6.166,Jean-François Richet,"Thriller, Ação, Aventura, Crime, Drama"
+Assalto à 13ª DP,6.166,Jean-François Richet,"Thriller, Ação, Aventura, Crime, Drama"
+Assalto à 13ª DP,6.166,Jean-François Richet,"Thriller, Ação, Aventura, Crime, Drama"
+Assalto à 13ª DP,6.166,Jean-François Richet,"Thriller, Ação, Aventura, Crime, Drama"
+O Equilibrista,7.367,James Marsh,Documentário
+E Sua Mãe Também,7.418,Alfonso Cuarón,"Drama, Romance"
+Para Sama,8.248,Waad al-Kateab,"Documentário, Guerra"
+Elle,6.7,Paul Verhoeven,"Drama, Thriller"
+Andando,7.735,Hirokazu Koreeda,"Drama, Família"
+Gangues de Wasseypur - Parte 1,7.1,Anurag Kashyap,"Ação, Thriller, Crime"
+Depois de Horas,7.478,Martin Scorsese,"Comédia, Thriller, Drama"
+Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América,6.78,Larry Charles,Comédia
+Minari: Em Busca da Felicidade,7.3,Lee Isaac Chung,Drama
+Barry Lyndon,8.008,Stanley Kubrick,"Drama, Romance, Guerra, História"
+A Despedida,7.4,Lulu Wang,"Comédia, Drama"
+O Conto da Princesa Kaguya,8.1,高畑勲,"Animação, Drama, Fantasia"
+Uncertain,6.3,Ewan McNicol,Documentário
+Great Freedom,7.2,Sebastian Meise,"Drama, Romance, Crime"
+Sem Fim à Vista,7.7,Charles Ferguson,Documentário
+As Loucuras do Rei George,6.7,Nicholas Hytner,"Comédia, Drama, História"
+Fênix,6.855,Christian Petzold,Drama
+Adeus,6.9,Ramin Bahrani,Drama
+Gunda,7.0,Viktor Kossakovsky,Documentário
+Western,6.639,Valeska Grisebach,Drama
+Western,6.639,Valeska Grisebach,Drama
+Western,6.639,Valeska Grisebach,Drama
+Western,6.639,Valeska Grisebach,Drama
+Western,6.639,Valeska Grisebach,Drama
+Western,6.639,Valeska Grisebach,Drama
+Western,6.639,Valeska Grisebach,Drama
+Western,6.639,Valeska Grisebach,Drama
+Western,6.639,Valeska Grisebach,Drama
+Ataque dos Cães,6.781,Jane Campion,"Drama, Faroeste"
+Herr Bachmann und seine Klasse,7.9,Maria Speth,Documentário
+Deep Red,4.4,Craig R. Baxley,"Thriller, Ficção científica, Cinema TV"
+Alien: O Oitavo Passageiro,8.156,Ridley Scott,"Terror, Ficção científica"
+Columbus,7.106,Kogonada,Drama
+O Artista,7.5,Michel Hazanavicius,"Drama, Comédia, Romance"
+Zama,6.736,Lucrecia Martel,"Drama, História"
+O Piano,7.383,Jane Campion,"Drama, Romance"
+Dead Souls,4.705,Colin Theys,Terror
+Cameraperson,6.8,Kirsten Johnson,Documentário
+A Mãe e a Puta,7.434,Jean Eustache,"Drama, Romance, Comédia"
+As Mortes de Dick Johnson,7.2,Kirsten Johnson,Documentário
+A Menina Silenciosa,7.5,Colm Bairéad,Drama
+Cartas de Iwo Jima,7.472,Clint Eastwood,"Ação, Drama, Guerra"
+Uma Mulher Sob Influência,7.766,John Cassavetes,Drama
+Anomalisa,7.1,Charlie Kaufman,"Animação, Drama, Romance, Comédia"
+"I'm Not Going to Die, I'm going Home Like a Shooting Star",0.0,Jada-Amina,
+A Conversação,7.527,Francis Ford Coppola,"Crime, Drama, Mistério"
+The Arbor,7.269,Clio Barnard,Drama
+Longa Jornada Noite Adentro,6.921,Sidney Lumet,Drama
+Three Minutes: A Lengthening,7.167,Bianca Stigter,"Documentário, História"
+Democrats,6.833,Camilla Nielsson,Documentário
+O Rei Leão,8.257,Roger Allers,"Família, Animação, Drama"
+O Rei Leão,8.257,Roger Allers,"Família, Animação, Drama"
+O Rei Leão,8.257,Roger Allers,"Família, Animação, Drama"
+O Rei Leão,8.257,Roger Allers,"Família, Animação, Drama"
+Quatro Meninas: Uma História Real,7.308,Spike Lee,Documentário
+ear for eye,6.5,debbie tucker green,Drama
+Azor,6.45,Andreas Fontana,"Drama, Thriller"
+As Aventuras de Paddington 2,7.459,Paul King,"Aventura, Comédia, Família"
+A Pequena Sereia,6.359,Rob Marshall,"Aventura, Família, Fantasia, Romance"
+A Pequena Sereia,6.359,Rob Marshall,"Aventura, Família, Fantasia, Romance"
+A Pequena Sereia,6.359,Rob Marshall,"Aventura, Família, Fantasia, Romance"
+A Pequena Sereia,6.359,Rob Marshall,"Aventura, Família, Fantasia, Romance"
+City Hall: Conspiração no Alto Escalão,5.9,Harold Becker,"Drama, Thriller"
+City Hall: Conspiração no Alto Escalão,5.9,Harold Becker,"Drama, Thriller"
+City Hall: Conspiração no Alto Escalão,5.9,Harold Becker,"Drama, Thriller"
+City Hall: Conspiração no Alto Escalão,5.9,Harold Becker,"Drama, Thriller"
+Um Homem Sério,6.728,Ethan Coen,"Comédia, Drama"
+Capote,6.993,Bennett Miller,"Crime, Drama"
+A Morte de Stalin,7.01,Armando Iannucci,"Comédia, Drama, História"
+Ervas Secas,7.672,Nuri Bilge Ceylan,Drama
+Tulpan,6.3,Sergei Dvortsevoy,"Drama, Romance, Comédia"
+Manuscritos não Queimam,6.6,Mohammad Rasoulof,"Crime, Drama"
+In Transit,7.3,Juliet Joslin,"Documentário, Música"
+Três Anúncios Para Um Crime,8.071,Martin McDonagh,"Crime, Drama"
+"Adeus, Meninos",7.513,Louis Malle,"Drama, Guerra"
+שתיקת הארכיון,6.4,Yael Hersonski,"História, Documentário"
+Daqui a Cem Anos,6.4,William Cameron Menzies,"Drama, Ficção científica"
+O Grande Hotel Budapeste,8.051,Wes Anderson,"Comédia, Drama"
+Sono de Inverno,7.6,Nuri Bilge Ceylan,Drama
+Nasce uma Estrela,7.501,Bradley Cooper,"Música, Drama, Romance"
+Nasce uma Estrela,7.501,Bradley Cooper,"Música, Drama, Romance"
+Nasce uma Estrela,7.501,Bradley Cooper,"Música, Drama, Romance"
+Nasce uma Estrela,7.501,Bradley Cooper,"Música, Drama, Romance"
+Cidadãoquatro,7.751,Laura Poitras,Documentário
+Time Out,0.0,Jadrien Morales,"Ficção científica, Mistério"
+Longe Dela,7.0,Sarah Polley,"Drama, Romance"
+Hamilton,8.194,Thomas Kail,"História, Drama"
+Meu Pai,8.122,Florian Zeller,Drama
+Foxtrot,4.7,Arturo Ripstein,Drama
+Retorno a Howard's End,7.045,James Ivory,"Drama, Romance"
+Trabalho Interno,7.695,Charles Ferguson,"Documentário, Crime"
+Doce País,6.7,Warwick Thornton,"Faroeste, Crime, Thriller, Drama"
+Sem Rastros,6.8,Debra Granik,Drama
+A Fuga das Galinhas,6.817,Peter Lord,"Animação, Comédia, Família"
+O Discurso do Rei,7.742,Tom Hooper,"Drama, História"
+Fargo: Uma Comédia de Erros,7.861,Joel Coen,"Crime, Drama, Thriller"
+Mães Paralelas,6.83,Pedro Almodóvar,Drama
+A Qualquer Custo,7.296,David Mackenzie,"Faroeste, Crime, Drama"
+Up: Altas Aventuras,7.958,Pete Docter,"Animação, Comédia, Família, Aventura"
+Shirkers: O Filme Roubado,7.308,Sandi Tan,Documentário
+Pobres Criaturas,7.8,Yorgos Lanthimos,"Ficção científica, Romance, Comédia"
+45365,6.3,Turner Ross,Documentário
+Tootsie,7.216,Sydney Pollack,"Comédia, Romance"
+جێھێڵراو لە عێراق,6.9,Bahman Ghobadi,"Drama, Guerra"
+Retratos Fantasmas,7.951,Kleber Mendonça Filho,Documentário
+Aquarius,7.481,Kleber Mendonça Filho,Drama
+Toy Story 2,7.597,John Lasseter,"Animação, Comédia, Família"
+Pantera Negra,7.384,Ryan Coogler,"Ação, Aventura, Ficção científica"
+Cemitério do Esplendor,5.8,Apichatpong Weerasethakul,"Drama, Fantasia"
+A Voz Humana,6.826,Pedro Almodóvar,Drama
+Brooklin: Um Amor Sem Fronteiras,7.3,John Crowley,"Romance, Drama, História"
+Nobody knows,0.0,Whap Abdalrazaq,Drama
+A Vida é Doce,6.958,Mike Leigh,"Comédia, Drama"
+Apollo 11,7.837,Todd Douglas Miller,"Documentário, História, Drama"
+O Senhor dos Anéis: As Duas Torres,8.398,Peter Jackson,"Aventura, Fantasia, Ação"
+O Rapto do Menino Dourado,5.906,Michael Ritchie,"Ação, Aventura, Comédia"
+Jane Fonda em Cinco Atos,7.529,Susan Lacy,"Documentário, Cinema TV"
+Newtown,6.689,Kim A. Snyder,Documentário
+Poetry,0.0,Sian Davies,Drama
+Se a Rua Beale Falasse,6.9,Barry Jenkins,"Romance, Drama"
+Restless Creature: Wendy Whelan,6.6,Adam Schlesinger,Documentário
+Birdman ou (A Inesperada Virtude da Ignorância),7.466,Alejandro González Iñárritu,"Drama, Comédia"
+Shine - Brilhante,7.386,Scott Hicks,Drama
+Aftershock: Um Choque de Realidade,7.5,Paula Eiselt,Documentário
+Aftershock: Um Choque de Realidade,7.5,Paula Eiselt,Documentário
+Aftershock: Um Choque de Realidade,7.5,Paula Eiselt,Documentário
+Aftershock: Um Choque de Realidade,7.5,Paula Eiselt,Documentário
+Poderia Me Perdoar?,6.807,Marielle Heller,"Drama, Crime, Comédia"
+Wolfwalkers,8.221,Tomm Moore,"Animação, Família, Aventura, Fantasia"
+Meu Amigo Totoro,8.1,Hayao Miyazaki,"Fantasia, Animação, Família"
+A Imagem que Falta,7.122,Rithy Panh,Documentário
+"Viajo Porque Preciso, Volto Porque Te Amo",7.2,Karim Aïnouz,Drama
+"Mon Père, le Diable",5.7,Ellie Foumbi,"Mistério, Thriller, Drama"
+The Body Remembers When the World Broke Open,7.5,Elle-Máijá Tailfeathers,Drama
+Amadeus,8.032,Miloš Forman,"História, Música, Drama"
+Of men and war,6.9,Laurent Bécue-Renard,"Documentário, Guerra"
+Um Perigoso Adeus,7.4,Robert Altman,"Mistério, Crime, Thriller"
+Dor e Glória,7.4,Pedro Almodóvar,Drama
+Arca Russa,7.3,Aleksandr Sokurov,"Drama, Fantasia, História"
+The Farthest,7.676,Emer Reynolds,Documentário
+GOMORRAH,0.0,Aaron J McIntyre,Drama
+Ser e Ter,7.266,Nicolas Philibert,Documentário
+Uma Noite sem Saber Nada,6.938,Payal Kapadia,"Documentário, Romance"
+Eraserhead,7.365,David Lynch,Terror
+Retorno a Seul,6.247,Davy Chou,Drama
+The Velvet Underground,6.799,Todd Haynes,"Documentário, Música"
+Tudo O Que Respira,6.898,Shaunak Sen,"Documentário, Drama"
+Attica: A Rebelião Sangrenta,5.7,Marvin J. Chomsky,"Drama, História, Cinema TV"
+Can You Bring It: Bill T. Jones and D-Man in the Waters,0.0,Rosalynde LeBlanc,Documentário
+Mami Wata,5.857,C.J. 'Fiery' Obasi,"Drama, Fantasia, Thriller"
+A Liberdade é Azul,7.652,Krzysztof Kieślowski,Drama
+@In the Mood for Love,6.8,Wong Kar-wai,Documentário
+Fogo no Mar,6.647,Gianfranco Rosi,Documentário
+Verdades e Mentiras,7.4,Orson Welles,Documentário
+O Homem-Urso,7.533,Werner Herzog,Documentário
+A Voz Suprema do Blues,6.672,George C. Wolfe,"Drama, Música"
+Nível Cinco,6.269,Chris Marker,"Documentário, Guerra, Ficção científica"
+Meu Amigo Robô,8.1,Pablo Berger,"Animação, Drama, Comédia, Ficção científica"
+Um Passo em Falso,6.6,Carl Franklin,"Crime, Drama, Thriller"
+O Último Navio Negreiro,6.385,Margaret Brown,"Documentário, História"
+En el Séptimo Día,6.7,Jim McKay,Drama
+Jane: A Mãe dos Chimpanzés,7.5,Brett Morgen,Documentário
+탑,6.2,홍상수,Drama
+Tubarão,7.664,Steven Spielberg,"Terror, Thriller, Aventura"
+Nós Somos as Melhores!,6.942,Lukas Moodysson,"Drama, Música"
+Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,7.1,Martin Scorsese,"Documentário, Música"
+Sobre a Eternidade,6.486,Roy Andersson,"Drama, Fantasia"
+De Volta para o Futuro,8.317,Robert Zemeckis,"Aventura, Comédia, Ficção científica"
+Nomadland,7.206,Chloé Zhao,Drama
+Uma Mulher Fatal,5.3,Erik de Bruyn,Drama
+Voyage à travers le cinéma français,7.5,Bertrand Tavernier,"Documentário, História"
+O Diário de Uma Adolescente,6.584,Marielle Heller,"Drama, Romance"
+Lincoln,6.857,Steven Spielberg,"História, Drama"
+Elena,7.32,Petra Costa,"Documentário, Drama"
+Elena,7.32,Petra Costa,"Documentário, Drama"
+Elena,7.32,Petra Costa,"Documentário, Drama"
+Elena,7.32,Petra Costa,"Documentário, Drama"
+Até o Fim,6.639,J.C. Chandor,"Ação, Aventura, Drama"
+Os Banshees de Inisherin,7.46,Martin McDonagh,"Drama, Comédia"
+Hereditário,7.289,Ari Aster,"Terror, Mistério, Thriller"
+A verdade sobre Marlon Brando,7.493,Stevan Riley,Documentário
+Gideon's Army,7.1,Dawn Porter,Documentário
+O Fugitivo,7.466,Andrew Davis,"Ação, Thriller, Drama"
+A Morte do Sr. Lazarescu,7.3,Cristi Puiu,"Drama, Comédia"
+Maria Cheia de Graça,7.212,Joshua Marston,"Drama, Thriller, Crime"
+Shakespeare Apaixonado,6.867,John Madden,"Romance, História, Comédia"
+Marcas da Guerra,6.916,Lajos Koltai,"Guerra, Drama"
+Lazzaro Felice,7.403,Alice Rohrwacher,"Drama, Fantasia"
+Sob a Névoa da Guerra,7.7,Errol Morris,"Documentário, Cinema TV, História, Guerra"
+All Dirt Roads Taste of Salt,5.8,Raven Jackson,Drama
+"Tio Boonmee, que Pode Recordar Suas Vidas Passadas",6.656,Apichatpong Weerasethakul,"Drama, Fantasia"
+O Segredo de Brokeback Mountain,7.799,李安,"Drama, Romance"
+O Garoto da Bicicleta,7.1,Luc Dardenne,Drama
+Homem-Aranha: No Aranhaverso,8.401,Bob Persichetti,"Animação, Ação, Aventura, Ficção científica"
+Blue Jean,6.879,Georgia Oakley,Drama
+O Sacrifício,4.296,Neil LaBute,"Terror, Mistério, Thriller"
+O Sacrifício,4.296,Neil LaBute,"Terror, Mistério, Thriller"
+O Sacrifício,4.296,Neil LaBute,"Terror, Mistério, Thriller"
+O Sacrifício,4.296,Neil LaBute,"Terror, Mistério, Thriller"
+A Tragédia de Macbeth,6.943,Joel Coen,"Drama, Guerra"
+Mulholland Dr.,7.8,David Lynch,"Thriller, Cinema TV, Drama, Mistério"
+Particle Fever,7.06,Mark Levinson,Documentário
+Tarnation,6.891,Jonathan Caouette,"Documentário, Drama"
+Microcosmos,8.0,牧野貴,
+Murderball - Paixão e Glória,7.045,Henry Alex Rubin,Documentário
+Life Itself - A Vida de Roger Ebert,7.515,Steve James,Documentário
+Life Itself - A Vida de Roger Ebert,7.515,Steve James,Documentário
+Life Itself - A Vida de Roger Ebert,7.515,Steve James,Documentário
+Life Itself - A Vida de Roger Ebert,7.515,Steve James,Documentário
+A Forma da Água,7.245,Guillermo del Toro,"Drama, Fantasia, Romance"
+De Volta ao Início,6.9,Mae Cruz-Alviar,"Drama, Romance, Ficção científica"
+Caché,7.045,Michael Haneke,"Mistério, Drama, Thriller"
+Le Roi et l'Oiseau,7.7,Paul Grimault,"Animação, Família, Fantasia"
+Bisbee '17,7.0,Robert Greene,"Documentário, História"
+Perseguidor Implacável,7.462,Don Siegel,"Ação, Crime, Thriller"
+Gregory Crewdson: Brief Encounters,7.176,Ben Shapiro,Documentário
+Autobiografia lui Nicolae Ceaușescu,7.8,Andrei Ujică,Documentário
+O Homem Que Mudou o Jogo,7.28,Bennett Miller,Drama
+Tudo Sobre Minha Mãe,7.6,Pedro Almodóvar,"Comédia, Drama"
+Três é Demais,7.4,Wes Anderson,"Comédia, Drama"
+O Duque de Burgundy,6.3,Peter Strickland,"Drama, Mistério, Romance"
+Três Lembranças da Minha Juventude,6.6,Arnaud Desplechin,Drama
+O Vento nos Levará,7.111,Abbas Kiarostami,Drama
+What the Constitution Means to Me,7.5,Marielle Heller,Drama
+Black Box Diaries,0.0,Shiori Itō,Documentário
+Força Maior,6.2,Pierre Jolivet,Drama
+Tampopo,7.8,伊丹十三,Comédia
+Um Tiro na Noite,7.371,Brian De Palma,"Thriller, Mistério, Crime"
+Diana da Fraça,5.7,David Miller,"Drama, História, Romance"
+Ten,4.1,Sophia Cacciola,"Aventura, Terror, Mistério, Thriller"
+Playground,8.5,Libby Spears,Documentário
+Tangerina,6.923,Sean Baker,"Comédia, Drama"
+The Tillman Story,7.1,Amir Bar-Lev,Documentário
+Renaissance: Um Filme de Beyoncé,8.611,Beyoncé,"Música, Documentário"
+O Quarto de Jack,8.022,Lenny Abrahamson,"Drama, Thriller"
+O Quarto de Jack,8.022,Lenny Abrahamson,"Drama, Thriller"
+O Quarto de Jack,8.022,Lenny Abrahamson,"Drama, Thriller"
+O Quarto de Jack,8.022,Lenny Abrahamson,"Drama, Thriller"
+Um Dia de Cão,7.84,Sidney Lumet,"Crime, Drama, Thriller"
+"Sexo, Mentiras e Videotape",6.9,Steven Soderbergh,Drama
+Vestígios do Dia,7.379,James Ivory,"Drama, Romance"
+The Wolf House,0.0,Nicholas Clausen,Documentário
+Um Elefante Sentado Quieto,7.698,Hu Bo,Drama
+Anatomia de uma Queda,7.574,Justine Triet,"Thriller, Mistério, Crime"
+O Paciente Inglês,7.179,Anthony Minghella,"Drama, Romance, Guerra"
+Folhas de Outono,7.277,Aki Kaurismäki,"Romance, Comédia, Drama"
+Nebraska,7.435,Alexander Payne,"Drama, Aventura"
+Like Water for Chocolate,6.3,Christopher Wheeldon,"Família, Romance, Drama"
+Gente Como a Gente,7.456,Robert Redford,Drama
+Sob a Areia,6.7,François Ozon,"Drama, Mistério"
+Divino Amor,6.0,Gabriel Mascaro,"Drama, Ficção científica"
+Homem-Aranha: Através do Aranhaverso,8.358,Kemp Powers,"Animação, Ação, Aventura, Ficção científica"
+Stand Clear of the Closing Doors,6.2,Sam Fleischner,Drama
+Almas Gêmeas,6.98,Peter Jackson,"Drama, Fantasia"
+O Apanhador de Sonhos,5.618,Lawrence Kasdan,"Drama, Terror, Ficção científica, Thriller"
+O Apanhador de Sonhos,5.618,Lawrence Kasdan,"Drama, Terror, Ficção científica, Thriller"
+O Apanhador de Sonhos,5.618,Lawrence Kasdan,"Drama, Terror, Ficção científica, Thriller"
+O Apanhador de Sonhos,5.618,Lawrence Kasdan,"Drama, Terror, Ficção científica, Thriller"
+Ricardo III,6.7,Richard Loncraine,"Drama, Guerra"
+42 Up,7.635,Michael Apted,Documentário
+Uma História Real,7.72,David Lynch,Drama
+Menina de Ouro,8.0,Clint Eastwood,Drama
+Os Últimos Dias no Vietnã,7.193,Rory Kennedy,"Guerra, Documentário"
+Krisha,6.8,Trey Edward Shults,Drama
+Dawson City: Tempo Congelado,6.8,Bill Morrison,Documentário
+Fortuna Perigosa,6.338,Alejandro Brugués,Terror
+Fortuna Perigosa,6.338,Alejandro Brugués,Terror
+Fortuna Perigosa,6.338,Alejandro Brugués,Terror
+Fortuna Perigosa,6.338,Alejandro Brugués,Terror
+O Babadook,6.522,Jennifer Kent,"Drama, Terror"
+Melhores Amigos,6.565,Ira Sachs,Drama
+Gêmeos: Mórbida Semelhança,7.122,David Cronenberg,"Thriller, Terror"
+Boogie Nights: Prazer Sem Limites,7.642,Paul Thomas Anderson,Drama
+Minhas Mães e Meu Pai,6.607,Lisa Cholodenko,"Comédia, Drama"
+Bem-vindo à Chechênia,7.012,David France,Documentário
+Manakamana,7.5,Stephanie Spray,Documentário
+A Caverna dos Sonhos Esquecidos,7.114,Werner Herzog,Documentário
+King of the Hill,6.797,Steven Soderbergh,"Drama, História"
+Carrie: A Estranha,6.035,Kimberly Peirce,"Drama, Terror"
+Carrie: A Estranha,6.035,Kimberly Peirce,"Drama, Terror"
+Carrie: A Estranha,6.035,Kimberly Peirce,"Drama, Terror"
+Carrie: A Estranha,6.035,Kimberly Peirce,"Drama, Terror"
+A Tartaruga Vermelha,7.5,Michael Dudok de Wit,"Animação, Drama, Fantasia, Família"
+Esperança e Glória,6.827,John Boorman,"Drama, Guerra, Família"
+Minha Família Feliz,7.2,Simon Groß,Drama
+How to Survive a Plague,6.803,David France,"Documentário, História"
+Em Busca dos Corais,7.7,Jeff Orlowski,Documentário
+Loveless,3.3,Ramin Serry,"Comédia, Drama"
+Loveless,3.3,Ramin Serry,"Comédia, Drama"
+Loveless,3.3,Ramin Serry,"Comédia, Drama"
+Loveless,3.3,Ramin Serry,"Comédia, Drama"
+Esculturas da Vida,5.663,Kelly Reichardt,"Comédia, Drama"
+Entre Quatro Paredes,6.918,Todd Field,"Drama, Thriller"
+Barbara,7.186,Christian Petzold,Drama
+Homens e Deuses,6.674,Xavier Beauvois,"Drama, História"
+Um Sonho Sem Limites,6.579,Gus Van Sant,"Drama, Comédia, Crime"
+Plano-Sequência dos Mortos,7.637,Shinichiro Ueda,"Comédia, Terror"
+Museu,6.6,Alonso Ruizpalacios,"Crime, Drama"
+O Indomável: Assim é Minha Vida,6.859,Robert Benton,"Drama, Comédia"
+O Indomável: Assim é Minha Vida,6.859,Robert Benton,"Drama, Comédia"
+O Indomável: Assim é Minha Vida,6.859,Robert Benton,"Drama, Comédia"
+O Indomável: Assim é Minha Vida,6.859,Robert Benton,"Drama, Comédia"
+Antes Que o Diabo Saiba Que Você Está Morto,7.103,Sidney Lumet,"Crime, Drama, Thriller"
+Estranhos no Paraíso,7.155,Jim Jarmusch,"Comédia, Drama"
+As Praias de Agnès,7.645,Agnès Varda,Documentário
+Indiana Jones e os Caçadores da Arca Perdida,7.928,Steven Spielberg,"Aventura, Ação"
+Eu Vi o Brilho da TV,6.009,Jane Schoenbrun,"Drama, Terror"
+Livrai-nos do Mal,6.241,Scott Derrickson,"Thriller, Crime, Terror"
+Segredos de um Escândalo,6.664,Todd Haynes,Drama
+Maidan-E-Jung,7.5,K. C. Bokadia,"Ação, Drama"
+Digam o Que Quiserem,7.045,Cameron Crowe,"Romance, Comédia, Drama"
+Guerra às Drogas,6.9,杜琪峯,"Ação, Drama, Crime"
+The Great American Beauty Contest,6.0,Robert Day,"Cinema TV, Drama"
+Vitalina Varela,6.783,Pedro Costa,Drama
+Happening,0.0,Marc Boureau,Drama
+"Patton, Rebelde ou Herói?",7.507,Franklin J. Schaffner,"Guerra, Drama, História"
+A Filha Perdida,6.537,Maggie Gyllenhaal,Drama
+Black Mother,6.6,Khalik Allah,Documentário
+Doentes de Amor,7.347,Michael Showalter,"Comédia, Drama, Romance"
+Argo,7.277,Ben Affleck,"Drama, Thriller"
+O Pão Nosso,6.75,King Vidor,"Drama, Romance"
+Fale com Ela,7.6,Pedro Almodóvar,"Drama, Romance"
+Traffic: Ninguém Sai Limpo,7.061,Steven Soderbergh,"Thriller, Drama, Crime"
+Os Imorais,6.5,Stephen Frears,"Crime, Drama"
+Horas de Verão,6.423,Olivier Assayas,Drama
+O Mestre,7.133,Paul Thomas Anderson,Drama
+Meninos Não Choram,7.412,Kimberly Peirce,"Crime, Drama"
+A Árvore dos Frutos Selvagens,7.5,Nuri Bilge Ceylan,Drama
+Meu País Imaginário,6.8,Patricio Guzmán,Documentário
+Vozes Distantes,6.839,Terence Davies,"Drama, Música"
+Nausicaä do Vale do Vento,7.94,Hayao Miyazaki,"Aventura, Animação, Fantasia"
+Aladdin,7.653,John Musker,"Animação, Família, Aventura, Fantasia, Romance"
+Aladdin,7.653,John Musker,"Animação, Família, Aventura, Fantasia, Romance"
+Aladdin,7.653,John Musker,"Animação, Família, Aventura, Fantasia, Romance"
+Aladdin,7.653,John Musker,"Animação, Família, Aventura, Fantasia, Romance"
+Los Angeles por Ela Mesma,7.647,Thom Andersen,Documentário
+Isto É Inglaterra,7.473,Shane Meadows,"Drama, Crime"
+Roda do destino,7.133,Ryusuke Hamaguchi,"Drama, Romance"
+Cidade Fantasma,5.897,Matt Dillon,Thriller
+Cidade Fantasma,5.897,Matt Dillon,Thriller
+Cidade Fantasma,5.897,Matt Dillon,Thriller
+Cidade Fantasma,5.897,Matt Dillon,Thriller
+小城之春,6.85,Tian Zhuangzhuang,"Drama, Romance"
+O Jogador,7.196,Robert Altman,"Mistério, Drama, Thriller"
+Felizes Dezesseis,7.0,Ken Loach,"Crime, Drama"
+Um Filho,6.709,Florian Zeller,Drama
+Um Filho,6.709,Florian Zeller,Drama
+Um Filho,6.709,Florian Zeller,Drama
+Um Filho,6.709,Florian Zeller,Drama
+Ponyo - Uma Amizade que Veio do Mar,7.744,Hayao Miyazaki,"Animação, Fantasia, Família"
+A Última Missão,7.0,Hal Ashby,"Drama, Comédia"
+Strong Island,6.4,Yance Ford,Documentário
+The Interrupters,6.857,Steve James,Documentário
+Indústria Americana,7.176,Julia Reichert,Documentário
+No Coração da Escuridão,7.0,Paul Schrader,Drama
+Em Ritmo de Fuga,7.452,Edgar Wright,"Ação, Crime"
+Super/Man: A História de Christopher Reeve,0.0,Ian Bonhôte,Documentário
+O Silêncio dos Inocentes,8.349,Jonathan Demme,"Crime, Drama, Thriller"
+Sabaya,6.9,Hogir Hirori,Documentário
+Indomável Sonhadora,6.8,Benh Zeitlin,"Drama, Fantasia"
+Let the Fire Burn,7.652,Jason Osder,Documentário
+Last Train Home,0.5,Randy Bradshaw,"Drama, Família, Aventura"
+Crip Camp: Revolução pela Inclusão,7.165,James Lebrecht,Documentário
+Andy Warhol: A Documentary Film,8.2,Ric Burns,Documentário
+Uma Bela Manhã,6.558,Mia Hansen-Løve,"Romance, Drama"
+A Dupla Vida de Véronique,7.5,Krzysztof Kieślowski,Drama
+A Viagem do Balão Vermelho,6.094,侯孝賢,"Família, Drama"
+O Poder da Sedução,6.766,John Dahl,"Thriller, Crime, Romance, Drama"
+A Longa Caminhada,7.3,Nicolas Roeg,"Aventura, Drama"
+Atlantique,6.8,Mati Diop,"Drama, Romance, Fantasia"
+Antes do Anoitecer,6.638,Julian Schnabel,Drama
+Acordar para a vida,7.477,Richard Linklater,"Animação, Drama"
+A Lenda do Cavaleiro Verde,6.593,David Lowery,"Aventura, Drama, Fantasia"
+The First Wave,6.839,Matthew Heineman,"Documentário, História"
+Cada Um Vive Como Quer,7.1,Bob Rafelson,Drama
+O Ultimato Bourne,7.431,Paul Greengrass,"Ação, Drama, Mistério, Thriller"
+Harry Potter e as Relíquias da Morte - Parte 2,8.1,David Yates,"Fantasia, Aventura"
+Chá Com as Damas,6.796,Roger Michell,Documentário
+Atleta A,7.6,Jon Shenk,Documentário
+O Abrigo,7.039,Jeff Nichols,"Thriller, Drama, Terror"
+The Salesman,8.0,Richard Corso,"Comédia, Drama, Fantasia"
+O Pianista,8.382,Roman Polanski,"Drama, Guerra"
+Conte Comigo,6.828,Kenneth Lonergan,Drama
+Children Underground,7.348,Edet Belzberg,Documentário
+Corra!,7.623,Jordan Peele,"Mistério, Thriller, Terror"
+O Massacre de Nanquim,7.4,陆川,"Drama, História, Guerra"
+"Amor, Sublime Amor",7.3,Robert Wise,"Crime, Drama, Romance"
+Jogando com a Sorte,6.6,Robert Altman,"Comédia, Drama"
+A Canção do Oceano,8.007,Tomm Moore,"Família, Animação, Fantasia"
+Amy,7.6,Asif Kapadia,"Documentário, Música"
+Amy,7.6,Asif Kapadia,"Documentário, Música"
+Amy,7.6,Asif Kapadia,"Documentário, Música"
+Amy,7.6,Asif Kapadia,"Documentário, Música"
+Auf der anderen Seite,7.212,Fatih Akin,Drama
+A Família Savage,6.836,Tamara Jenkins,"Drama, Comédia"
+Birds of Passage,0.0,Neil Hollander,"Drama, Aventura, Thriller, Ação, Crime"
+Gimme Shelter,7.4,Charlotte Zwerin,"Documentário, Música"
+Gimme Shelter,7.4,Charlotte Zwerin,"Documentário, Música"
+Gimme Shelter,7.4,Charlotte Zwerin,"Documentário, Música"
+Gimme Shelter,7.4,Charlotte Zwerin,"Documentário, Música"
+Quando Meus Pais Não Estão em Casa,7.0,Anthony Chen,"Drama, Família"
+Educação,6.9,Lone Scherfig,"Drama, Romance"
+Líbano,6.5,Samuel Maoz,"Drama, Guerra"
+To the Ends of the Earth,5.6,Robert Stevenson,Thriller
+Amor Até As Cinzas,6.854,Jia Zhangke,"Crime, Romance, Drama"
+ATEEZ Turnê Mundial - The Fellowship: Map the Treasure em Seoul,0.0,Desconhecido,Música
+A Noite Cairá,7.575,André Singer,Documentário
+I Am Another You,7.6,Nanfu Wang,Documentário
+The Endurance: Shackleton's Legendary Antarctic Expedition,6.779,George Butler,"Documentário, História"
+Amor Ilícito,5.0,Chris Thomson,"Drama, Romance"
+Domando o Destino,7.279,Chloé Zhao,"Drama, Faroeste"
+Oitava Série,7.165,Bo Burnham,"Comédia, Drama"
+Bansky Pinta a Parede,7.536,Banksy,Documentário
+Na Corda Bamba,7.529,Billy Bob Thornton,Drama
+A Novata,6.5,Lauren Hadaway,Drama
+Girlhood,6.6,Liz Garbus,"Documentário, Crime"
+Girlhood,6.6,Liz Garbus,"Documentário, Crime"
+Girlhood,6.6,Liz Garbus,"Documentário, Crime"
+Girlhood,6.6,Liz Garbus,"Documentário, Crime"
+Let's Get Lost,7.134,Bruce Weber,"Música, Documentário"
+Offside,5.294,Mårten Klingberg,Drama
+O Ornitólogo,6.086,João Pedro Rodrigues,"Aventura, Drama, Mistério"
+O Serviço de Entregas da Kiki,7.826,Hayao Miyazaki,"Animação, Família, Fantasia"
+Mona Lisa e a Lua de Sangue,6.316,Ana Lily Amirpour,"Mistério, Fantasia, Thriller"
+Tales of the Grim Sleeper,6.4,Nick Broomfield,"Crime, Documentário"
+Ligeiramente Grávidos,6.286,Judd Apatow,"Comédia, Romance, Drama"
+Tartarugas podem Voar,7.687,Bahman Ghobadi,Drama
+Os Infiltrados,8.166,Martin Scorsese,"Drama, Thriller, Crime"
+Festival Express,7.068,Frank Cvitanovich,"Documentário, História, Música"
+Abril e o Mundo Extraordinário,7.006,Franck Ekinci,"Thriller, Aventura, Animação, Comédia, Fantasia, Ficção científica"
+"Primavera, Verão, Outono, Inverno e... Primavera",7.815,김기덕,Drama
+O Espião Que Sabia Demais,6.627,Tomas Alfredson,"Drama, Thriller, Mistério"
+Support the Girls,6.0,Andrew Bujalski,"Drama, Comédia"
+Half Nelson: Encurralados,6.645,Ryan Fleck,Drama
+Vencer,6.717,Marco Bellocchio,"Drama, História"
+Susie e os Baker Boys,6.609,Steve Kloves,"Comédia, Drama, Música, Romance"
+O Informante,7.452,Michael Mann,"Drama, Thriller"
+Street Fighter: A Última Batalha,4.576,Steven E. de Souza,"Ação, Aventura, Comédia, Thriller"
+The Girl in the Sun,6.6,三木孝浩,"Drama, Romance, Fantasia"
+Love and Diane,5.7,Jennifer Dworkin,Documentário
+Domestic Violence,6.0,Frederick Wiseman,Documentário
+As Confissões de Schmidt,6.835,Alexander Payne,"Drama, Comédia"
+Herói por Acidente,6.264,Stephen Frears,"Comédia, Drama"
+Herói por Acidente,6.264,Stephen Frears,"Comédia, Drama"
+Herói por Acidente,6.264,Stephen Frears,"Comédia, Drama"
+Herói por Acidente,6.264,Stephen Frears,"Comédia, Drama"
+Alcarràs,6.866,Carla Simón,Drama
+No Interior do Alabama: A Vida em Hale County,5.86,RaMell Ross,Documentário
+O Sabor da Vida,7.063,Trần Anh Hùng,"Romance, Drama"
+Neil Young: Heart of Gold,7.344,Jonathan Demme,"Documentário, Música"
+당신얼굴 앞에서,6.8,홍상수,Drama
+Identidade,6.3,Rebecca Hall,Drama
+Lágrimas Sobre o Mississipi,7.4,Dee Rees,Drama
+Minha Vida de Abobrinha,7.808,Claude Barras,"Animação, Comédia, Drama, Família, Romance"
+In the Same Breath: Verdades e Mentiras da Pandemia,7.1,Nanfu Wang,Documentário
+Atlantis,6.254,Luc Besson,"Música, Documentário"
+Honeyland,6.0,Rudolf Ising,"Animação, Família"
+Transformers: O Despertar das Feras,7.311,Steven Caple Jr.,"Ficção científica, Aventura, Ação"
+"Hedwig: Rock, Amor e Traição",7.404,John Cameron Mitchell,"Comédia, Música, Drama"
+Holy Motors,6.992,Leos Carax,"Drama, Fantasia"
+Reino de Deus,7.79,Francis Lee,"Romance, Drama"
+Kaili Blues,7.143,Bi Gan,"Drama, Mistério"
+Os Imperdoáveis,7.913,Clint Eastwood,Faroeste
+Hóspede Indesejado,6.059,Deon Taylor,Thriller
+Hóspede Indesejado,6.059,Deon Taylor,Thriller
+Hóspede Indesejado,6.059,Deon Taylor,Thriller
+Hóspede Indesejado,6.059,Deon Taylor,Thriller
+Forbidden Lies,7.7,Anna Broinowski,Documentário
+"Jovens, Loucos e Mais Rebeldes",6.4,Richard Linklater,Comédia
+Behemoth,4.6,Peter Szewczyk,Terror
+The Past,2.0,Gagan Puri,"Drama, Terror"
+Oasis Knebworth 1996,7.7,Jake Scott,"Documentário, Música"
+One Child Nation,7.163,Nanfu Wang,Documentário
+A Festa Nunca Termina,6.915,Michael Winterbottom,"Comédia, Drama, Música"
+Doce Vingança 3: A Vingança é Minha,5.75,R.D. Braunstein,"Terror, Thriller"
+Sin Señas Particulares,7.075,Fernanda Valadez,Drama
+Nômade: seguindo os passos de Bruce Chatwin,7.1,Werner Herzog,Documentário
+A Incrível História de Henry Sugar,7.235,Wes Anderson,"Comédia, Fantasia, Aventura"
+Desejo e Reparação,7.648,Joe Wright,"Drama, Romance"
+A Árvore da Vida,6.742,Terrence Malick,"Drama, Fantasia"
+Decisão de Partir,7.359,박찬욱,"Thriller, Mistério, Romance"
+Alexandra,8.5,Theo Frenkel Sr.,"Drama, Romance"
+Os Fabelmans,7.631,Steven Spielberg,Drama
+Nu,5.757,Michael Tiddes,Comédia
+A Hospedeira,6.289,Andrew Niccol,"Ação, Aventura, Ficção científica"
+A Hospedeira,6.289,Andrew Niccol,"Ação, Aventura, Ficção científica"
+A Hospedeira,6.289,Andrew Niccol,"Ação, Aventura, Ficção científica"
+A Hospedeira,6.289,Andrew Niccol,"Ação, Aventura, Ficção científica"
+رویاهای دم صبح,8.0,Mehrdad Oskouei,Documentário
+The Departure,0.0,Daniel Robinson,"Ficção científica, Drama"
+Restrepo,7.261,Tim Hetherington,"Guerra, Documentário"
+O Barco: Inferno no Mar,8.09,Wolfgang Petersen,"Drama, História, Guerra"
+Mulheres à Beira de um Ataque de Nervos,7.408,Pedro Almodóvar,"Comédia, Drama"
+O Motorista de Aplicativo,5.0,Tyler Savage,"Thriller, Terror"
+O Gigante de Ferro,7.9,Brad Bird,"Família, Animação, Ficção científica, Aventura"
+Uma Mulher Alta,7.1,Kantemir Balagov,"Drama, Guerra"
+Fred Rogers: O Padrinho da Criançada,8.006,Morgan Neville,Documentário
+Passing Strange,5.9,Spike Lee,"Música, Documentário"
+O Atalho,6.523,Kelly Reichardt,Faroeste
+O Fim de um Longo Dia,7.2,Terence Davies,Drama
+Sing - Quem Canta Seus Males Espanta,7.113,Garth Jennings,"Animação, Comédia, Família, Música"
+Fruitvale Station: A Última Parada,7.374,Ryan Coogler,Drama
+O Casamento de Rachel,6.292,Jonathan Demme,"Drama, Romance"
+A Substância,7.8,Coralie Fargeat,"Drama, Terror, Ficção científica"
+Along With the Gods: The Last 49 Days,8.12,김용화,"Ação, Aventura, Fantasia, Thriller"
+Watchers of the Sky,5.6,Edet Belzberg,Documentário
+Depuis qu'Otar est parti...,6.7,Julie Bertuccelli,Drama
+Sound and Fury,7.107,Josh Aronson,Documentário
+Paragraph 175,6.516,Jeffrey Friedman,"História, Documentário"
+O Círculo,5.5,James Ponsoldt,"Drama, Thriller, Ficção científica"
+O Círculo,5.5,James Ponsoldt,"Drama, Thriller, Ficção científica"
+O Círculo,5.5,James Ponsoldt,"Drama, Thriller, Ficção científica"
+O Círculo,5.5,James Ponsoldt,"Drama, Thriller, Ficção científica"
+O Círculo,5.5,James Ponsoldt,"Drama, Thriller, Ficção científica"
+O Círculo,5.5,James Ponsoldt,"Drama, Thriller, Ficção científica"
+O Círculo,5.5,James Ponsoldt,"Drama, Thriller, Ficção científica"
+O Círculo,5.5,James Ponsoldt,"Drama, Thriller, Ficção científica"
+O Círculo,5.5,James Ponsoldt,"Drama, Thriller, Ficção científica"
+Atlantic City,6.8,Louis Malle,"Crime, Drama, Romance"
+A Memória Infinita,8.169,Maite Alberdi,Documentário
+A Criada,8.215,박찬욱,"Thriller, Drama, Romance"
+EO,6.505,Jerzy Skolimowski,"Drama, Aventura"
+Quem Quer Ser um Milionário?,7.731,Danny Boyle,"Drama, Romance"
+Beyond Utopia,8.1,Madeleine Gavin,"Documentário, História"
+Black Is King,7.3,Beyoncé,Música
+The Work,7.452,Gethin Aldous,Documentário
+Prancer: Um Conto de Natal,7.043,Phil Hawkins,"Família, Fantasia"
+Paranoid Park,6.544,Gus Van Sant,"Drama, Crime"
+Irresistível Paixão,6.7,Steven Soderbergh,"Romance, Comédia, Crime"
+Brazil: O Filme,7.674,Terry Gilliam,"Comédia, Ficção científica"
+Batman: O Cavaleiro das Trevas,8.516,Christopher Nolan,"Drama, Ação, Crime, Thriller"
+Sombra Lunar,6.17,Jim Mickle,"Ficção científica, Thriller"
+Sombra Lunar,6.17,Jim Mickle,"Ficção científica, Thriller"
+Sombra Lunar,6.17,Jim Mickle,"Ficção científica, Thriller"
+Sombra Lunar,6.17,Jim Mickle,"Ficção científica, Thriller"
+Como Fera Encurralada,7.1,Claude Sautet,Crime
+Vulcões: A Tragédia de Katia e Maurice Krafft,7.516,Sara Dosa,Documentário
+Todos a Bordo,6.576,Spike Lee,Drama
+76 Days,0.0,Joe Wein,Documentário
+Shin Ultraman,7.2,Shinji Higuchi,"Ação, Ficção científica"
+O Último Concerto de Rock,7.636,Martin Scorsese,"Documentário, Música"
+Crescendo Juntas,7.27,Kelly Fremon Craig,"Comédia, Drama"
+Os Caçadores de Trufas,7.7,Michael Dweck,Documentário
+Filhos da Esperança,7.612,Alfonso Cuarón,"Drama, Ação, Thriller, Ficção científica"
+Judas e o Messias Negro,7.346,Shaka King,"Drama, História"
+Nos Bastidores da Notícia,6.7,James L. Brooks,"Comédia, Romance"
+Revanche,7.15,Götz Spielmann,"Crime, Drama, Romance"
+O Homem Sem Passado,7.432,Aki Kaurismäki,"Drama, Comédia, Romance"
+American Movie,7.6,Chris Smith,"Documentário, Comédia"
+Maridos e Esposas,7.017,Woody Allen,"Comédia, Drama, Romance"
+Depois da Tempestade,6.058,Emma Jean Sutherland,"Cinema TV, Romance, Drama"
+Moonrise Kingdom,7.694,Wes Anderson,"Comédia, Drama, Romance"
+Calle 54,7.6,Fernando Trueba,"Documentário, Música"
+Cavalo Dinheiro,7.2,Pedro Costa,Drama
+Close your eyes,0.0,Minkyou Yoo,
+Close your eyes,0.0,Minkyou Yoo,
+Close your eyes,0.0,Minkyou Yoo,
+Close your eyes,0.0,Minkyou Yoo,
+沿江而上,7.333,Yung Chang,Documentário
+"Adeus, Minha Concubina",7.947,陈凯歌,Drama
+High Hopes,0.0,Ron Jäger,Drama
+Alexandre McQueen,7.512,Ian Bonhôte,Documentário
+O Corcel Negro,7.062,Carroll Ballard,"Família, Aventura"
+Mãe Terra,6.3,Savanah Leaf,Drama
+Fora de Série,7.0,Olivia Wilde,Comédia
+Sangue Selvagem,6.25,John Huston,"Comédia, Drama"
+Escrevendo com Fogo,7.328,Sushmit Ghosh,"Documentário, História"
+Ascensão,6.792,Jessica Kingdon,Documentário
+Lantana,6.6,Ray Lawrence,"Crime, Drama, Mistério"
+Reality,6.443,Tina Satter,"Drama, Thriller"
+Reality,6.443,Tina Satter,"Drama, Thriller"
+Reality,6.443,Tina Satter,"Drama, Thriller"
+Reality,6.443,Tina Satter,"Drama, Thriller"
+Reality,6.443,Tina Satter,"Drama, Thriller"
+Reality,6.443,Tina Satter,"Drama, Thriller"
+Reality,6.443,Tina Satter,"Drama, Thriller"
+Reality,6.443,Tina Satter,"Drama, Thriller"
+Reality,6.443,Tina Satter,"Drama, Thriller"
+Os Amigos de Eddie Coyle,7.25,Peter Yates,"Crime, Drama, Thriller"
+Serafina,6.8,Martin Provost,"História, Drama"
+49 Up,7.344,Michael Apted,Documentário
+120 Batimentos Por Minuto,7.7,Robin Campillo,Drama
+O Clube da Felicidade e da Sorte,7.129,Wayne Wang,Drama
+A Sorte Grande,7.014,Michael Morris,Drama
+Beleza Americana,8.019,Sam Mendes,Drama
+Harmonium,6.6,Koji Fukada,Drama
+"Kagemusha, a Sombra do Samurai",7.809,Akira Kurosawa,"Ação, Drama, História, Guerra"
+Blade Runner: O Caçador de Andróides,7.939,Ridley Scott,"Ficção científica, Drama, Thriller"
+Coração de Cachorro,6.59,Laurie Anderson,Documentário
+A Honra do Poderoso Prizzi,6.376,John Huston,"Romance, Comédia, Crime"
+Atraídos Pelo Perigo,6.0,Peter Werner,"Ação, Drama, Crime"
+Atraídos Pelo Perigo,6.0,Peter Werner,"Ação, Drama, Crime"
+Atraídos Pelo Perigo,6.0,Peter Werner,"Ação, Drama, Crime"
+Atraídos Pelo Perigo,6.0,Peter Werner,"Ação, Drama, Crime"
+Atraídos Pelo Perigo,6.0,Peter Werner,"Ação, Drama, Crime"
+Atraídos Pelo Perigo,6.0,Peter Werner,"Ação, Drama, Crime"
+Atraídos Pelo Perigo,6.0,Peter Werner,"Ação, Drama, Crime"
+Atraídos Pelo Perigo,6.0,Peter Werner,"Ação, Drama, Crime"
+Atraídos Pelo Perigo,6.0,Peter Werner,"Ação, Drama, Crime"
+Todos os Homens do Presidente,7.67,Alan J. Pakula,"Drama, História, Mistério, Thriller"
+Lagaan: A Coragem de um Povo,7.259,Ashutosh Gowariker,"Aventura, Romance, Drama"
+Longe do Paraíso,7.039,Todd Haynes,"Drama, Romance"
+A Feiticeira da Guerra,6.578,Kim Nguyen,"Drama, Guerra"
+Toy Story 4,7.494,Josh Cooley,"Família, Aventura, Animação, Comédia, Fantasia"
+Darwin's Nightmare,6.8,Hubert Sauper,Documentário
+Aliens: O Resgate,7.945,James Cameron,"Ação, Thriller, Ficção científica"
+My Winnipeg,6.866,Guy Maddin,"Documentário, Comédia, Drama"
+On The Record: A Verdade Vem À Tona,6.7,Kirby Dick,Documentário
+A Fita Branca,7.499,Michael Haneke,"Drama, Mistério"
+In My Room,6.0,Mati Diop,Drama
+Mishima: Uma Vida em Quatro Tempos,7.8,Paul Schrader,Drama
+Em um Bairro de Nova York,7.193,Jon M. Chu,"Drama, Romance"
+Gosto de Sangue,7.249,Joel Coen,"Crime, Drama, Thriller"
+"Oslo, 31 de Agosto",7.464,Joachim Trier,Drama
+A Bruxa,6.963,Robert Eggers,"Drama, Mistério, Terror, História"
+Looper: Assassinos do Futuro,6.885,Rian Johnson,"Ação, Thriller, Ficção científica"
+Graduation,5.7,Michael Mayer,"Comédia, Crime, Drama"
+Kubo e as Cordas Mágicas,7.6,Travis Knight,"Animação, Aventura, Família"
+A Real Pain,0.0,Jesse Eisenberg,"Comédia, Drama"
+O Outro Lado da Esperança,6.972,Aki Kaurismäki,"Comédia, Drama"
+A Vastidão da Noite,6.55,Andrew Patterson,"Drama, Mistério, Ficção científica, Thriller"
+Momma's Man,6.2,Azazel Jacobs,Drama
+Antiga Alegria,6.343,Kelly Reichardt,Drama
+Você Nunca Esteve Realmente Aqui,6.558,Lynne Ramsay,"Crime, Drama, Thriller"
+Em Nome do Pai,7.905,Jim Sheridan,Drama
+Sombras da Vida,7.105,David Lowery,"Drama, Fantasia"
+Ballast,7.13,Lance Hammer,Drama
+Volver,7.47,Pedro Almodóvar,"Comédia, Drama, Romance"
+The Square: A Arte da Discórdia,6.762,Ruben Östlund,Drama
+The Square: A Arte da Discórdia,6.762,Ruben Östlund,Drama
+The Square: A Arte da Discórdia,6.762,Ruben Östlund,Drama
+The Square: A Arte da Discórdia,6.762,Ruben Östlund,Drama
+The Square: A Arte da Discórdia,6.762,Ruben Östlund,Drama
+The Square: A Arte da Discórdia,6.762,Ruben Östlund,Drama
+The Square: A Arte da Discórdia,6.762,Ruben Östlund,Drama
+The Square: A Arte da Discórdia,6.762,Ruben Östlund,Drama
+The Square: A Arte da Discórdia,6.762,Ruben Östlund,Drama
+As Viúvas,6.495,Steve McQueen,"Crime, Thriller"
+Love After Love,5.7,Russell Harbaugh,Drama
+Sinônimos,5.8,Nadav Lapid,"Comédia, Drama"
+Boys State,7.1,Jesse Moss,Documentário
+早春,7.519,Yasujiro Ozu,"Drama, Romance"
+Homicídio,6.2,David Mamet,"Drama, Crime"
+Museum Hours,6.9,Jem Cohen,Drama
+Nadia Murad: de Sobrevivente a Ativista,6.6,Alexandria Bombach,Documentário
+Garotos em Ponto de Bala,6.9,Michael Ritchie,"Família, Comédia"
+Razão e Sensibilidade,7.4,李安,"Drama, Romance"
+Os Descendentes,6.844,Alexander Payne,"Comédia, Drama"
+O Primeiro Homem,7.047,Damien Chazelle,"História, Drama"
+Momento Inesquecível,6.717,Bill Forsyth,"Comédia, Drama"
+O Exterminador do Futuro,7.66,James Cameron,"Ação, Thriller, Ficção científica"
+Distant,6.0,Will Speck,"Ficção científica, Comédia, Drama"
+Expresso do Amanhã,6.905,Bong Joon-Ho,"Ação, Ficção científica, Drama"
+Simplesmente Feliz,6.579,Mike Leigh,"Comédia, Drama"
+Lassie,6.4,Charles Sturridge,"Aventura, Drama, Família"
+Shrek,7.744,Andrew Adamson,"Animação, Comédia, Fantasia, Aventura, Família"
+Dave Chappelle's Block Party,6.752,Michel Gondry,"Comédia, Documentário, Música"
+Vítor ou Vitória?,7.253,Blake Edwards,"Música, Comédia, Romance"
+Our Time Machine,8.0,S. Leo Chiang,"Documentário, Drama, Família"
+Le cas Pinochet,6.8,Patricio Guzmán,Documentário
+The Day I Became a Woman,6.1,Marziyeh Meshkiny,Drama
+A Vida Depois,7.618,Megan Park,Drama
+O Americano Tranquilo,6.5,Phillip Noyce,"Romance, Thriller, Drama, Guerra"
+Weiner,7.319,Josh Kriegman,Documentário
+石门,7.0,Huang Ji,Drama
+Iraque em Fragmentos,6.588,James Longley,Documentário
+Sobre Meninos e Lobos,7.74,Clint Eastwood,"Thriller, Crime, Drama, Mistério"
+O Sucesso a Qualquer Preço,7.363,James Foley,"Crime, Drama, Mistério"
+Star Wars: Episódio VIII - Os Últimos Jedi,6.796,Rian Johnson,"Aventura, Ação, Ficção científica"
+A Enseada,7.928,Louie Psihoyos,Documentário
+O Destino Mudou Sua Vida,7.3,Michael Apted,"Música, Drama"
+Mutual Appreciation,5.9,Andrew Bujalski,"Drama, Comédia"
